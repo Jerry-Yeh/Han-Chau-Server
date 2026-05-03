@@ -1,0 +1,121 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Get a free hosted Postgres database in seconds: `npx create-db`
+
+generator client {
+  provider = "prisma-client-js"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model User {
+  id      String                @id @default(uuid())
+
+  records WorkoutRecord[]
+  plans   WorkoutPlanTemplate[]
+
+  @@map("user")
+}
+
+model Exercise {
+  id             Int     @id
+  nameEn         String  @map("name_en")
+  nameZh         String  @map("name_zh")
+  level          Int
+  modality       Int
+  upperLowerCore Int     @map("upper_lower_core")
+  pushPull       Int     @map("push_pull")
+  joint          Int
+  video          Json?
+
+  muscles         ExerciseMuscle[]
+  planExercises   WorkoutPlanTemplateExercise[]
+  recordExercises WorkoutRecordExercise[]
+
+  @@map("exercise")
+}
+
+model Muscle {
+  id        Int              @id
+
+  exercises ExerciseMuscle[]
+
+  @@map("muscle")
+}
+
+model ExerciseMuscle {
+  exerciseId Int @map("exercise_id")
+  muscleId   Int @map("muscle_id")
+
+  exercise Exercise @relation(fields: [exerciseId], references: [id])
+  muscle   Muscle   @relation(fields: [muscleId], references: [id])
+
+  @@id([exerciseId, muscleId])
+  @@map("exercise_muscle")
+}
+
+model WorkoutPlanTemplate {
+  id           String                        @id @default(uuid())
+  userId       String                        @map("user_id")
+  name         String
+  exerciseList WorkoutPlanTemplateExercise[]
+  records      WorkoutRecord[]
+
+  user User @relation(fields: [userId], references: [id])
+
+  @@map("workout_plan_template")
+}
+
+model WorkoutPlanTemplateExercise {
+  id                    String @id @default(uuid())
+  exerciseId            Int    @map("exercise_id")
+  sets                  Int
+  reps                  Int
+  workoutPlanTemplateId String @map("workout_plan_template_id")
+
+  exercise            Exercise            @relation(fields: [exerciseId], references: [id])
+  workoutPlanTemplate WorkoutPlanTemplate @relation(fields: [workoutPlanTemplateId], references: [id])
+
+  @@map("workout_plan_template_exercise")
+}
+
+model WorkoutRecord {
+  id           String                  @id @default(uuid())
+  userId       String                  @map("user_id")
+  planId       String                  @map("plan_id")
+  note         String
+  time         String
+  exerciseList WorkoutRecordExercise[]
+
+  user User                @relation(fields: [userId], references: [id])
+  plan WorkoutPlanTemplate @relation(fields: [planId], references: [id])
+
+  @@map("workout_record")
+}
+
+model WorkoutRecordExercise {
+  id              String                    @id @default(uuid())
+  exerciseId      Int                       @map("exercise_id")
+  workoutRecordId String                    @map("workout_record_id")
+  sets            WorkoutRecordExerciseSet[]
+
+  exercise      Exercise      @relation(fields: [exerciseId], references: [id])
+  workoutRecord WorkoutRecord @relation(fields: [workoutRecordId], references: [id])
+
+  @@map("workout_record_exercise")
+}
+
+model WorkoutRecordExerciseSet {
+  id                      String @id @default(uuid())
+  reps                    Int
+  weight                  Float
+  workoutRecordExerciseId String @map("workout_record_exercise_id")
+
+  workoutRecordExercise WorkoutRecordExercise @relation(fields: [workoutRecordExerciseId], references: [id])
+
+  @@map("workout_record_exercise_set")
+}

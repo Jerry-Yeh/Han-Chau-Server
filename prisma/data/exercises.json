@@ -1,0 +1,4240 @@
+[
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=8Oht3nv_iDs&ab_channel=KosmoFit",
+      "start": 33,
+      "end": 95
+    },
+    "id": 77,
+    "level": 3,
+    "modality": 1,
+    "muscles": [
+      30,
+      3
+    ],
+    "pushPull": 2,
+    "upperLowerCore": 1,
+    "joint": 2,
+    "nameZh": "上斜啞鈴彎舉",
+    "nameEn": "Incline Dumbbell Curl"
+  },
+  {
+    "nameZh": "上斜啞鈴反向後三角平舉",
+    "level": 3,
+    "pushPull": 1,
+    "upperLowerCore": 1,
+    "modality": 1,
+    "nameEn": "Reverse Incline Dumbbell Rear Delt Raise",
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "joint": 2,
+    "id": 229
+  },
+  {
+    "nameZh": "仰臥 EZ-Bar 三頭肌伸展",
+    "id": 250,
+    "modality": 1,
+    "muscles": [
+      30,
+      9
+    ],
+    "joint": 2,
+    "nameEn": "Lying EZ-Bar Triceps Extension",
+    "upperLowerCore": 1,
+    "pushPull": 1,
+    "level": 2
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=vC9c7Ubmo1Q&ab_channel=KosmoFit",
+      "start": 125,
+      "end": 185
+    },
+    "muscles": [
+      5,
+      20
+    ],
+    "upperLowerCore": 1,
+    "nameEn": "Incline Dumbbell Bench Press",
+    "level": 3,
+    "modality": 1,
+    "nameZh": "上斜啞鈴仰臥推舉",
+    "id": 124,
+    "pushPull": 1,
+    "joint": 1
+  },
+  {
+    "pushPull": 2,
+    "muscles": [
+      30,
+      3
+    ],
+    "level": 1,
+    "joint": 2,
+    "nameEn": "Kneeling Cable Curl",
+    "modality": 2,
+    "id": 79,
+    "upperLowerCore": 1,
+    "nameZh": "跪姿滑輪繩索彎舉"
+  },
+  {
+    "pushPull": 1,
+    "id": 111,
+    "joint": 2,
+    "nameEn": "Seated Single-Leg Calf Raise",
+    "modality": 3,
+    "muscles": [
+      4,
+      19
+    ],
+    "level": 2,
+    "upperLowerCore": 2,
+    "nameZh": "坐姿單腳小腿上提"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=EJNDwRMBQu0&ab_channel=KosmoFit",
+      "start": 317,
+      "end": 378
+    },
+    "pushPull": 1,
+    "nameEn": "Pec Deck Rear Delt Extensions",
+    "upperLowerCore": 1,
+    "nameZh": "蝴蝶機後三角伸展",
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "modality": 3,
+    "joint": 2,
+    "id": 228,
+    "level": 2
+  },
+  {
+    "muscles": [
+      5,
+      20
+    ],
+    "upperLowerCore": 1,
+    "joint": 2,
+    "pushPull": 1,
+    "nameZh": "上斜啞鈴飛鳥",
+    "level": 3,
+    "id": 144,
+    "modality": 1,
+    "nameEn": "Incline Dumbbell Fly"
+  },
+  {
+    "pushPull": 2,
+    "nameZh": "仰臥上下式滑輪繩索彎舉",
+    "level": 3,
+    "nameEn": "Lying High Cable Curl",
+    "joint": 2,
+    "upperLowerCore": 1,
+    "id": 82,
+    "muscles": [
+      30,
+      3
+    ],
+    "modality": 2
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=MzLZXUnekuI&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 693,
+      "end": 725
+    },
+    "nameZh": "V 型上舉",
+    "upperLowerCore": 3,
+    "pushPull": 1,
+    "modality": 1,
+    "joint": 1,
+    "id": 26,
+    "muscles": [
+      1,
+      14
+    ],
+    "nameEn": "V-Up",
+    "level": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=bZ0PvQhS20g&ab_channel=KosmoFit",
+      "start": 47,
+      "end": 97
+    },
+    "joint": 1,
+    "modality": 1,
+    "pushPull": 1,
+    "id": 172,
+    "muscles": [
+      6,
+      22
+    ],
+    "upperLowerCore": 2,
+    "nameZh": "啞鈴反向弓箭步",
+    "level": 2,
+    "nameEn": "Dumbbell Reverse Lunge"
+  },
+  {
+    "joint": 1,
+    "muscles": [
+      1,
+      13
+    ],
+    "upperLowerCore": 3,
+    "id": 14,
+    "pushPull": 1,
+    "nameEn": "Reverse Cable Chop",
+    "level": 3,
+    "nameZh": "反向滑輪繩索伐木",
+    "modality": 2
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=qOtplIldWFo&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 156,
+      "end": 165
+    },
+    "muscles": [
+      30,
+      3
+    ],
+    "id": 65,
+    "nameEn": "Alternating Dumbbell Hammer  Curl",
+    "modality": 1,
+    "upperLowerCore": 1,
+    "nameZh": "交替啞鈴槌式彎舉",
+    "joint": 2,
+    "level": 1,
+    "pushPull": 2
+  },
+  {
+    "pushPull": 2,
+    "level": 3,
+    "modality": 1,
+    "upperLowerCore": 2,
+    "id": 154,
+    "nameZh": "硬舉",
+    "muscles": [
+      6,
+      21
+    ],
+    "joint": 2,
+    "nameEn": "Deadlift"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=vC9c7Ubmo1Q&ab_channel=KosmoFit",
+      "start": 80,
+      "end": 122
+    },
+    "level": 1,
+    "pushPull": 2,
+    "upperLowerCore": 1,
+    "joint": 1,
+    "nameZh": "坐姿繩索划船",
+    "muscles": [
+      2,
+      16,
+      17
+    ],
+    "id": 57,
+    "nameEn": "Seated Cable Row",
+    "modality": 2
+  },
+  {
+    "modality": 2,
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "nameEn": "Cable Lateral Raise",
+    "nameZh": "滑輪繩索側平舉",
+    "id": 221,
+    "upperLowerCore": 1,
+    "level": 2,
+    "joint": 2,
+    "pushPull": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Bq6V2WLVl5I&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 130,
+      "end": 190
+    },
+    "level": 2,
+    "nameZh": "單手滑輪繩索側平舉",
+    "upperLowerCore": 1,
+    "nameEn": "Single-Arm Cable Lateral Raise",
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "modality": 2,
+    "pushPull": 1,
+    "id": 231,
+    "joint": 2
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ymjK_xoz-zM&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 145,
+      "end": 195
+    },
+    "joint": 1,
+    "modality": 1,
+    "pushPull": 1,
+    "nameEn": "Bicycle Crunch",
+    "upperLowerCore": 3,
+    "id": 23,
+    "muscles": [
+      1,
+      14
+    ],
+    "nameZh": "單車式捲腹",
+    "level": 3
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=xbuegWdo5s8&t=152s&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 21,
+      "end": 65
+    },
+    "upperLowerCore": 1,
+    "nameEn": "Wide-Grip Lat Pulldown",
+    "muscles": [
+      2,
+      16
+    ],
+    "modality": 2,
+    "joint": 1,
+    "nameZh": "寬握滑輪下拉",
+    "id": 45,
+    "pushPull": 2,
+    "level": 1
+  },
+  {
+    "id": 75,
+    "nameEn": "Incline Alternating Dumbbell Curl",
+    "modality": 1,
+    "pushPull": 2,
+    "nameZh": "上斜交替啞鈴彎舉",
+    "level": 3,
+    "muscles": [
+      30,
+      3
+    ],
+    "joint": 2,
+    "upperLowerCore": 1
+  },
+  {
+    "upperLowerCore": 1,
+    "pushPull": 1,
+    "modality": 1,
+    "joint": 1,
+    "id": 133,
+    "muscles": [
+      5,
+      20
+    ],
+    "nameEn": "Push-Up",
+    "nameZh": "伏地挺身",
+    "level": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=c0jejD_2W-w&ab_channel=KosmoFit",
+      "start": 252,
+      "end": 313
+    },
+    "upperLowerCore": 1,
+    "modality": 1,
+    "joint": 1,
+    "id": 54,
+    "pushPull": 2,
+    "level": 1,
+    "nameEn": "One Arm Dumbbell Row",
+    "nameZh": "單手啞鈴划船",
+    "muscles": [
+      2,
+      16,
+      17
+    ]
+  },
+  {
+    "nameEn": "Decline EZ-Bar Tricep Extension",
+    "modality": 1,
+    "upperLowerCore": 1,
+    "joint": 2,
+    "pushPull": 1,
+    "nameZh": "下斜 EZ-Bar 三頭肌伸展",
+    "level": 3,
+    "muscles": [
+      30,
+      9
+    ],
+    "id": 241
+  },
+  {
+    "level": 3,
+    "pushPull": 1,
+    "nameZh": "單手槓鈴側深蹲",
+    "upperLowerCore": 2,
+    "muscles": [
+      6,
+      22
+    ],
+    "nameEn": "Single-Arm Barbell Side Squat",
+    "modality": 1,
+    "joint": 1,
+    "id": 188
+  },
+  {
+    "id": 59,
+    "joint": 1,
+    "nameEn": "Single-Arm Cable Row",
+    "upperLowerCore": 1,
+    "modality": 2,
+    "level": 2,
+    "pushPull": 2,
+    "muscles": [
+      2,
+      16,
+      17
+    ],
+    "nameZh": "單手繩索划船"
+  },
+  {
+    "pushPull": 1,
+    "nameEn": "Dumbbell Walking Lunge",
+    "upperLowerCore": 2,
+    "id": 177,
+    "modality": 1,
+    "joint": 1,
+    "muscles": [
+      6,
+      22
+    ],
+    "level": 3,
+    "nameZh": "啞鈴跨步蹲"
+  },
+  {
+    "modality": 1,
+    "pushPull": 1,
+    "nameZh": "啞鈴側弓箭步",
+    "upperLowerCore": 2,
+    "joint": 1,
+    "level": 2,
+    "id": 173,
+    "muscles": [
+      6,
+      22
+    ],
+    "nameEn": "Dumbbell Side Lunge"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Ufw6TSuesV0&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 240,
+      "end": 258
+    },
+    "level": 2,
+    "nameEn": "Rope Triceps Pushdown",
+    "joint": 2,
+    "modality": 2,
+    "upperLowerCore": 1,
+    "nameZh": "雙頭繩索三頭肌下推",
+    "muscles": [
+      30,
+      9
+    ],
+    "id": 263,
+    "pushPull": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=qOtplIldWFo&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 120,
+      "end": 137
+    },
+    "level": 2,
+    "modality": 1,
+    "pushPull": 2,
+    "joint": 2,
+    "nameEn": "EZ-Bar Curl",
+    "muscles": [
+      30,
+      3
+    ],
+    "upperLowerCore": 1,
+    "id": 73,
+    "nameZh": "EZ-Bar 彎舉"
+  },
+  {
+    "upperLowerCore": 1,
+    "modality": 2,
+    "muscles": [
+      30,
+      9
+    ],
+    "level": 1,
+    "pushPull": 1,
+    "nameZh": "三頭肌下推",
+    "joint": 2,
+    "id": 269,
+    "nameEn": "Tricep Pushdown"
+  },
+  {
+    "pushPull": 1,
+    "nameZh": "坐姿藥球轉體",
+    "level": 3,
+    "modality": 1,
+    "muscles": [
+      1,
+      13
+    ],
+    "upperLowerCore": 3,
+    "nameEn": "Seated Medicine Ball Twist",
+    "joint": 1,
+    "id": 15
+  },
+  {
+    "id": 19,
+    "upperLowerCore": 3,
+    "pushPull": 3,
+    "nameZh": "平板支撐 (三點支撐)",
+    "nameEn": "Front Plank (tripod)",
+    "muscles": [
+      1,
+      14
+    ],
+    "modality": 1,
+    "joint": 1,
+    "level": 3
+  },
+  {
+    "id": 80,
+    "modality": 2,
+    "level": 2,
+    "muscles": [
+      30,
+      3
+    ],
+    "upperLowerCore": 1,
+    "pushPull": 2,
+    "nameEn": "Lying Cable Curl",
+    "nameZh": "仰臥水平式滑輪繩索彎舉",
+    "joint": 2
+  },
+  {
+    "nameEn": "Side-Plank (from knees)",
+    "muscles": [
+      1,
+      14
+    ],
+    "level": 2,
+    "joint": 1,
+    "id": 20,
+    "upperLowerCore": 3,
+    "pushPull": 3,
+    "modality": 1,
+    "nameZh": "側平板支撐 (膝蓋)"
+  },
+  {
+    "id": 68,
+    "joint": 2,
+    "pushPull": 2,
+    "level": 3,
+    "nameEn": "3-Part Curl",
+    "modality": 1,
+    "nameZh": "三段式彎舉",
+    "muscles": [
+      30,
+      3
+    ],
+    "upperLowerCore": 1
+  },
+  {
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "pushPull": 1,
+    "id": 212,
+    "level": 2,
+    "nameEn": "Dumbbell Twisting Shoulder Press",
+    "joint": 1,
+    "upperLowerCore": 1,
+    "nameZh": "啞鈴旋轉肩推",
+    "modality": 1
+  },
+  {
+    "muscles": [
+      6,
+      22
+    ],
+    "id": 194,
+    "modality": 1,
+    "joint": 1,
+    "level": 2,
+    "pushPull": 1,
+    "upperLowerCore": 2,
+    "nameZh": "單腳深蹲",
+    "nameEn": "Single-Leg Squat"
+  },
+  {
+    "pushPull": 1,
+    "id": 187,
+    "upperLowerCore": 2,
+    "nameZh": "反向弓箭步",
+    "level": 1,
+    "joint": 1,
+    "nameEn": "Reverse Lunge",
+    "modality": 1,
+    "muscles": [
+      6,
+      22
+    ]
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=vC9c7Ubmo1Q&ab_channel=KosmoFit",
+      "start": 51,
+      "end": 79
+    },
+    "muscles": [
+      5,
+      20
+    ],
+    "pushPull": 1,
+    "nameZh": "蝴蝶機夾胸",
+    "upperLowerCore": 1,
+    "modality": 3,
+    "joint": 2,
+    "id": 147,
+    "nameEn": "Pec Deck",
+    "level": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=8Oht3nv_iDs&ab_channel=KosmoFit",
+      "start": 115,
+      "end": 152
+    },
+    "nameEn": "Barbell Curl",
+    "level": 1,
+    "pushPull": 2,
+    "upperLowerCore": 1,
+    "nameZh": "槓鈴彎舉",
+    "joint": 2,
+    "id": 66,
+    "modality": 1,
+    "muscles": [
+      30,
+      3
+    ]
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=8TRJI7g3pD0&ab_channel=%E7%87%9F%E9%A4%8A%E5%81%A5%E8%BA%AB%E8%91%9B%E6%A0%BCPeeta",
+      "start": 410,
+      "end": 444
+    },
+    "level": 3,
+    "nameZh": "上斜啞鈴槌式彎舉",
+    "id": 78,
+    "pushPull": 2,
+    "upperLowerCore": 1,
+    "nameEn": "Incline Dumbbell Hammer Curl",
+    "joint": 2,
+    "muscles": [
+      30,
+      3
+    ],
+    "modality": 1
+  },
+  {
+    "nameZh": "史密斯深蹲",
+    "upperLowerCore": 2,
+    "muscles": [
+      6,
+      22
+    ],
+    "modality": 3,
+    "id": 195,
+    "pushPull": 1,
+    "nameEn": "Smith Machine Squat",
+    "joint": 1,
+    "level": 2
+  },
+  {
+    "muscles": [
+      5,
+      20
+    ],
+    "level": 1,
+    "nameZh": "啞鈴飛鳥",
+    "id": 141,
+    "modality": 1,
+    "upperLowerCore": 1,
+    "nameEn": "Dumbbell Fly",
+    "pushPull": 1,
+    "joint": 2
+  },
+  {
+    "joint": 1,
+    "muscles": [
+      2,
+      16,
+      17
+    ],
+    "nameEn": "Standing Single-Arm Cable Row",
+    "nameZh": "站姿單手繩索划船",
+    "modality": 2,
+    "pushPull": 2,
+    "level": 2,
+    "id": 63,
+    "upperLowerCore": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=F-JwhGe4UNc&ab_channel=KosmoFit",
+      "start": 50,
+      "end": 274
+    },
+    "nameZh": "俯身槓鈴划船",
+    "level": 1,
+    "nameEn": "Bent-Over Barbell Row",
+    "joint": 1,
+    "pushPull": 2,
+    "modality": 1,
+    "upperLowerCore": 1,
+    "muscles": [
+      2,
+      16,
+      17
+    ],
+    "id": 47
+  },
+  {
+    "joint": 1,
+    "modality": 1,
+    "id": 168,
+    "upperLowerCore": 2,
+    "level": 3,
+    "pushPull": 1,
+    "nameZh": "槓鈴跨步蹲",
+    "nameEn": "Barbell Walking Lunge",
+    "muscles": [
+      6,
+      22
+    ]
+  },
+  {
+    "pushPull": 2,
+    "joint": 2,
+    "modality": 3,
+    "nameEn": "Lying Single-Leg Curl",
+    "level": 2,
+    "upperLowerCore": 2,
+    "id": 158,
+    "nameZh": "仰臥單腳彎舉",
+    "muscles": [
+      6,
+      21
+    ]
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Ufw6TSuesV0&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 41,
+      "end": 59
+    },
+    "nameZh": "上斜滑輪繩索交叉",
+    "upperLowerCore": 1,
+    "pushPull": 1,
+    "level": 2,
+    "nameEn": "Low Cable Crossover",
+    "joint": 2,
+    "muscles": [
+      5,
+      20
+    ],
+    "id": 146,
+    "modality": 2
+  },
+  {
+    "nameEn": "Flat Bench Press",
+    "pushPull": 1,
+    "nameZh": "仰臥推舉",
+    "id": 120,
+    "joint": 1,
+    "modality": 1,
+    "level": 2,
+    "muscles": [
+      5,
+      20
+    ],
+    "upperLowerCore": 1
+  },
+  {
+    "nameZh": "滑輪繩索飛鳥",
+    "level": 3,
+    "modality": 2,
+    "muscles": [
+      5,
+      20
+    ],
+    "pushPull": 1,
+    "upperLowerCore": 1,
+    "joint": 2,
+    "id": 139,
+    "nameEn": "Cable Fly"
+  },
+  {
+    "id": 157,
+    "upperLowerCore": 2,
+    "muscles": [
+      6,
+      21
+    ],
+    "level": 1,
+    "modality": 3,
+    "joint": 2,
+    "nameZh": "仰臥腿部彎舉",
+    "nameEn": "Lying Leg Curl",
+    "pushPull": 2
+  },
+  {
+    "joint": 1,
+    "level": 2,
+    "nameZh": "雙槓撐體",
+    "nameEn": "Dips",
+    "upperLowerCore": 1,
+    "pushPull": 1,
+    "modality": 1,
+    "muscles": [
+      30,
+      9
+    ],
+    "id": 238
+  },
+  {
+    "nameEn": "Single-Arm Lat Pulldown",
+    "nameZh": "單手滑輪下拉",
+    "muscles": [
+      2,
+      16,
+      17
+    ],
+    "upperLowerCore": 1,
+    "joint": 1,
+    "level": 2,
+    "pushPull": 2,
+    "id": 61,
+    "modality": 2
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Ufw6TSuesV0&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 224,
+      "end": 240
+    },
+    "joint": 2,
+    "upperLowerCore": 1,
+    "nameEn": "Overhead Rope Cable Tricep Extension",
+    "level": 2,
+    "pushPull": 1,
+    "modality": 2,
+    "id": 258,
+    "muscles": [
+      30,
+      9
+    ],
+    "nameZh": "雙頭繩索過頭三頭肌伸展"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=4O2J0rD9et8&ab_channel=%E8%B6%85%E6%A0%B8%E5%BF%83%E5%81%A5%E8%BA%AB%E4%B8%AD%E5%BF%83HypercoreFitness",
+      "start": 124,
+      "end": 210
+    },
+    "nameEn": "Kneeling Ab Rollout",
+    "upperLowerCore": 3,
+    "modality": 1,
+    "level": 2,
+    "id": 24,
+    "muscles": [
+      1,
+      14
+    ],
+    "pushPull": 1,
+    "nameZh": "跪膝腹輪",
+    "joint": 1
+  },
+  {
+    "level": 1,
+    "id": 7,
+    "nameZh": "交替觸踝",
+    "pushPull": 1,
+    "muscles": [
+      1,
+      13
+    ],
+    "modality": 1,
+    "joint": 1,
+    "upperLowerCore": 3,
+    "nameEn": "Alternating Heel Touch"
+  },
+  {
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "modality": 1,
+    "nameEn": "Barbell Front Raise",
+    "id": 217,
+    "nameZh": "槓鈴前平舉",
+    "level": 2,
+    "upperLowerCore": 1,
+    "pushPull": 1,
+    "joint": 2
+  },
+  {
+    "nameEn": "Medicine Ball Crossover Push-Up",
+    "upperLowerCore": 1,
+    "joint": 1,
+    "nameZh": "藥球交叉伏地挺身",
+    "id": 132,
+    "pushPull": 1,
+    "level": 3,
+    "modality": 1,
+    "muscles": [
+      5,
+      20
+    ]
+  },
+  {
+    "muscles": [
+      5,
+      20
+    ],
+    "nameZh": "上斜槓鈴仰臥推舉",
+    "modality": 1,
+    "id": 122,
+    "level": 3,
+    "joint": 1,
+    "nameEn": "Incline Barbell Bench Press",
+    "upperLowerCore": 1,
+    "pushPull": 1
+  },
+  {
+    "upperLowerCore": 1,
+    "pushPull": 1,
+    "muscles": [
+      30,
+      9
+    ],
+    "level": 1,
+    "nameZh": "仰臥單手啞鈴三頭肌伸展",
+    "joint": 2,
+    "modality": 1,
+    "id": 254,
+    "nameEn": "Lying Single-Arm Dumbbell Triceps Extension"
+  },
+  {
+    "muscles": [
+      6,
+      22
+    ],
+    "level": 1,
+    "pushPull": 1,
+    "upperLowerCore": 2,
+    "nameZh": "前跨弓箭步",
+    "nameEn": "Forward Lunge",
+    "modality": 1,
+    "id": 178,
+    "joint": 1
+  },
+  {
+    "nameZh": "單手啞鈴肩推",
+    "level": 1,
+    "pushPull": 1,
+    "joint": 1,
+    "upperLowerCore": 1,
+    "nameEn": "Single-Arm Dumbbell Shoulder Press",
+    "id": 215,
+    "modality": 1,
+    "muscles": [
+      8,
+      24,
+      26
+    ]
+  },
+  {
+    "level": 3,
+    "nameZh": "上斜旋轉啞鈴仰臥推舉",
+    "modality": 1,
+    "id": 128,
+    "nameEn": "Incline Twisting Dumbbell Bench Press",
+    "joint": 1,
+    "pushPull": 1,
+    "upperLowerCore": 1,
+    "muscles": [
+      5,
+      20
+    ]
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=8Oht3nv_iDs&ab_channel=KosmoFit",
+      "start": 186,
+      "end": 245
+    },
+    "joint": 2,
+    "id": 69,
+    "upperLowerCore": 1,
+    "nameZh": "滑輪繩索彎舉",
+    "muscles": [
+      30,
+      3
+    ],
+    "modality": 2,
+    "level": 2,
+    "nameEn": "Cable Curl",
+    "pushPull": 2
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=K7BAXitydQ0&ab_channel=KosmoFit",
+      "start": 16,
+      "end": 70
+    },
+    "id": 10,
+    "nameZh": "交叉捲腹",
+    "nameEn": "Cross Crunch",
+    "modality": 1,
+    "pushPull": 1,
+    "muscles": [
+      1,
+      13
+    ],
+    "level": 1,
+    "joint": 1,
+    "upperLowerCore": 3
+  },
+  {
+    "modality": 1,
+    "upperLowerCore": 1,
+    "level": 3,
+    "id": 39,
+    "pushPull": 2,
+    "joint": 1,
+    "muscles": [
+      2,
+      16
+    ],
+    "nameZh": "仰臥引體向上",
+    "nameEn": "Inverted Pull-Up"
+  },
+  {
+    "id": 129,
+    "pushPull": 1,
+    "upperLowerCore": 1,
+    "muscles": [
+      5,
+      20
+    ],
+    "joint": 1,
+    "nameEn": "Kneeling Push-Up",
+    "level": 1,
+    "nameZh": "跪姿伏地挺身",
+    "modality": 1
+  },
+  {
+    "modality": 1,
+    "id": 118,
+    "nameZh": "啞鈴伏地挺身",
+    "pushPull": 1,
+    "joint": 1,
+    "level": 1,
+    "upperLowerCore": 1,
+    "nameEn": "Dumbbell Push-Up",
+    "muscles": [
+      5,
+      20
+    ]
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=vC9c7Ubmo1Q&ab_channel=KosmoFit",
+      "start": 250,
+      "end": 195
+    },
+    "upperLowerCore": 1,
+    "muscles": [
+      5,
+      20
+    ],
+    "modality": 2,
+    "level": 3,
+    "joint": 2,
+    "id": 142,
+    "nameZh": "下斜滑輪繩索交叉",
+    "nameEn": "High Cable Crossover",
+    "pushPull": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=P5yYpBMy9UM&ab_channel=%E7%87%9F%E9%A4%8A%E5%81%A5%E8%BA%AB%E8%91%9B%E6%A0%BCPeeta",
+      "start": 367,
+      "end": 409
+    },
+    "modality": 1,
+    "nameZh": "俯身長槓鈴划船",
+    "nameEn": "Bent-Over Long Barbell Row",
+    "joint": 1,
+    "muscles": [
+      2,
+      16,
+      17
+    ],
+    "id": 50,
+    "level": 2,
+    "upperLowerCore": 1,
+    "pushPull": 2
+  },
+  {
+    "nameEn": "Preacher Barbell Curl",
+    "muscles": [
+      30,
+      3
+    ],
+    "id": 86,
+    "level": 3,
+    "joint": 2,
+    "upperLowerCore": 1,
+    "pushPull": 2,
+    "modality": 1,
+    "nameZh": "牧師椅槓鈴彎舉"
+  },
+  {
+    "nameEn": "Cross Crunch with Medicine Ball",
+    "nameZh": "藥球交叉捲腹",
+    "muscles": [
+      1,
+      13
+    ],
+    "upperLowerCore": 3,
+    "pushPull": 1,
+    "modality": 1,
+    "id": 11,
+    "level": 3,
+    "joint": 1
+  },
+  {
+    "id": 97,
+    "pushPull": 2,
+    "muscles": [
+      30,
+      3
+    ],
+    "nameZh": "坐姿啞鈴槌式彎舉",
+    "modality": 1,
+    "level": 1,
+    "upperLowerCore": 1,
+    "nameEn": "Seated Dumbbell Hammer Curl",
+    "joint": 2
+  },
+  {
+    "modality": 3,
+    "level": 3,
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "nameEn": "Smith Machine Shoulder Press",
+    "nameZh": "史密斯肩推",
+    "id": 216,
+    "upperLowerCore": 1,
+    "pushPull": 1,
+    "joint": 1
+  },
+  {
+    "pushPull": 1,
+    "modality": 1,
+    "level": 3,
+    "muscles": [
+      30,
+      9
+    ],
+    "id": 252,
+    "nameZh": "仰臥反向 EZ-Bar 三頭肌伸展",
+    "upperLowerCore": 1,
+    "nameEn": "Lying Reverse EZ-Bar Triceps Extension",
+    "joint": 2
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ikGe_-Wle8s&ab_channel=KosmoFit",
+      "start": 226,
+      "end": 278
+    },
+    "modality": 1,
+    "nameEn": "Overhead Single Dumbbell Tricep Extension",
+    "id": 259,
+    "nameZh": "啞鈴過頭單手三頭肌伸展",
+    "muscles": [
+      30,
+      9
+    ],
+    "pushPull": 1,
+    "level": 1,
+    "joint": 2,
+    "upperLowerCore": 1
+  },
+  {
+    "joint": 2,
+    "pushPull": 1,
+    "muscles": [
+      30,
+      9
+    ],
+    "modality": 2,
+    "upperLowerCore": 1,
+    "nameZh": "上斜滑輪繩索三頭肌伸展",
+    "nameEn": "Low Cable Triceps Extension",
+    "level": 2,
+    "id": 248
+  },
+  {
+    "modality": 1,
+    "nameEn": "Front Plate Raise",
+    "id": 223,
+    "pushPull": 1,
+    "joint": 2,
+    "level": 1,
+    "nameZh": "槓片前平舉",
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "upperLowerCore": 1
+  },
+  {
+    "nameEn": "Bent-Over Cable Rear Delt Raise",
+    "upperLowerCore": 1,
+    "nameZh": "俯身滑輪繩索後三角平舉",
+    "level": 3,
+    "modality": 2,
+    "id": 218,
+    "pushPull": 1,
+    "joint": 2,
+    "muscles": [
+      8,
+      24,
+      26
+    ]
+  },
+  {
+    "upperLowerCore": 1,
+    "muscles": [
+      30,
+      9
+    ],
+    "nameEn": "Lying Cable Triceps Extension",
+    "nameZh": "仰臥滑輪繩索三頭肌伸展",
+    "joint": 2,
+    "pushPull": 1,
+    "id": 249,
+    "modality": 2,
+    "level": 2
+  },
+  {
+    "pushPull": 1,
+    "muscles": [
+      1,
+      15
+    ],
+    "level": 1,
+    "id": 28,
+    "upperLowerCore": 3,
+    "nameZh": "屈膝仰臥起坐",
+    "modality": 1,
+    "nameEn": "Bent Knee Sit-Up",
+    "joint": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=8Oht3nv_iDs&ab_channel=KosmoFit",
+      "start": 245,
+      "end": 294
+    },
+    "muscles": [
+      30,
+      9
+    ],
+    "upperLowerCore": 1,
+    "id": 268,
+    "pushPull": 1,
+    "level": 1,
+    "joint": 2,
+    "nameEn": "Tricep Pushdown",
+    "nameZh": "三頭肌下推",
+    "modality": 2
+  },
+  {
+    "joint": 2,
+    "id": 95,
+    "nameZh": "坐姿交替槌式彎舉",
+    "pushPull": 2,
+    "nameEn": "Seated Alternating Dumbell Hammer Curl",
+    "modality": 1,
+    "muscles": [
+      30,
+      3
+    ],
+    "level": 1,
+    "upperLowerCore": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=sDboZeOgvTs&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 68,
+      "end": 101
+    },
+    "nameZh": "反手上斜啞鈴划船",
+    "level": 3,
+    "joint": 1,
+    "upperLowerCore": 1,
+    "modality": 1,
+    "nameEn": "Reverse Incline Dumbbell Row",
+    "muscles": [
+      2,
+      16,
+      17
+    ],
+    "pushPull": 2,
+    "id": 55
+  },
+  {
+    "modality": 1,
+    "muscles": [
+      6,
+      22
+    ],
+    "level": 1,
+    "nameZh": "啞鈴登階",
+    "pushPull": 1,
+    "id": 176,
+    "nameEn": "Dumbbell Step-Up",
+    "joint": 1,
+    "upperLowerCore": 2
+  },
+  {
+    "modality": 1,
+    "nameZh": "單腳提臀",
+    "pushPull": 2,
+    "level": 2,
+    "id": 153,
+    "muscles": [
+      6,
+      21
+    ],
+    "joint": 1,
+    "nameEn": "Single-Leg Hip Lift",
+    "upperLowerCore": 2
+  },
+  {
+    "upperLowerCore": 3,
+    "pushPull": 1,
+    "nameEn": "Weighted Crunch",
+    "id": 36,
+    "muscles": [
+      1,
+      15
+    ],
+    "joint": 1,
+    "modality": 1,
+    "level": 2,
+    "nameZh": "負重捲腹"
+  },
+  {
+    "nameEn": "Barbell Reverse Lunge",
+    "joint": 1,
+    "muscles": [
+      6,
+      22
+    ],
+    "level": 2,
+    "pushPull": 1,
+    "nameZh": "槓鈴反向弓箭步",
+    "modality": 1,
+    "id": 163,
+    "upperLowerCore": 2
+  },
+  {
+    "joint": 1,
+    "level": 3,
+    "pushPull": 1,
+    "nameZh": "窄握仰臥推舉",
+    "id": 233,
+    "modality": 1,
+    "muscles": [
+      30,
+      9
+    ],
+    "upperLowerCore": 1,
+    "nameEn": "Close-Grip Bench Press"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=A25eIp4d_cs&ab_channel=CYFIT%E5%85%86%E4%BD%91",
+      "start": 84,
+      "end": 106
+    },
+    "nameZh": "俯身單手長槓鈴划船",
+    "nameEn": "Bent-Over Single-Arm Long Barbell Row",
+    "level": 3,
+    "muscles": [
+      2,
+      16,
+      17
+    ],
+    "pushPull": 2,
+    "upperLowerCore": 1,
+    "id": 52,
+    "joint": 1,
+    "modality": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Bq6V2WLVl5I&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 667,
+      "end": 700
+    },
+    "level": 2,
+    "joint": 2,
+    "nameEn": "Overhead Single-Arm Cable Tricep Extension",
+    "upperLowerCore": 1,
+    "nameZh": "滑輪繩索過頭單手三頭肌伸展",
+    "pushPull": 1,
+    "id": 260,
+    "muscles": [
+      30,
+      9
+    ],
+    "modality": 2
+  },
+  {
+    "id": 140,
+    "upperLowerCore": 1,
+    "nameEn": "Decline Dumbbell Fly",
+    "joint": 2,
+    "muscles": [
+      5,
+      20
+    ],
+    "level": 3,
+    "nameZh": "下斜啞鈴飛鳥",
+    "pushPull": 1,
+    "modality": 1
+  },
+  {
+    "pushPull": 1,
+    "joint": 2,
+    "level": 2,
+    "upperLowerCore": 1,
+    "nameEn": "Lying Overhead EZ-Bar Tricep Extension",
+    "modality": 1,
+    "nameZh": "仰臥過頭 EZ-Bar 三頭肌伸展",
+    "muscles": [
+      30,
+      9
+    ],
+    "id": 251
+  },
+  {
+    "modality": 2,
+    "nameEn": "Single-Arm Towel Triceps Pushdown",
+    "joint": 2,
+    "level": 1,
+    "pushPull": 1,
+    "muscles": [
+      30,
+      9
+    ],
+    "nameZh": "單手毛巾三頭肌下推",
+    "upperLowerCore": 1,
+    "id": 264
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ZZ3rmX8YvgM&ab_channel=%E8%B6%85%E6%A0%B8%E5%BF%83%E5%81%A5%E8%BA%AB%E4%B8%AD%E5%BF%83HypercoreFitness",
+      "start": 120,
+      "end": 228
+    },
+    "level": 1,
+    "muscles": [
+      1,
+      14
+    ],
+    "nameEn": "Front Plank (from knees)",
+    "nameZh": "平板支撐 (膝蓋)",
+    "modality": 1,
+    "joint": 1,
+    "pushPull": 3,
+    "id": 17,
+    "upperLowerCore": 3
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=MzLZXUnekuI&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 442,
+      "end": 468
+    },
+    "nameEn": "Machine Shoulder Press",
+    "level": 1,
+    "id": 213,
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "modality": 3,
+    "nameZh": "機械式肩推",
+    "joint": 1,
+    "pushPull": 1,
+    "upperLowerCore": 1
+  },
+  {
+    "pushPull": 2,
+    "level": 1,
+    "nameZh": "",
+    "muscles": [
+      30,
+      3
+    ],
+    "joint": 2,
+    "id": 67,
+    "nameEn": "Bicep Curl",
+    "modality": 1,
+    "upperLowerCore": 1
+  },
+  {
+    "id": 58,
+    "level": 1,
+    "upperLowerCore": 1,
+    "muscles": [
+      2,
+      16,
+      17
+    ],
+    "nameZh": "",
+    "modality": 2,
+    "joint": 1,
+    "pushPull": 2,
+    "nameEn": "Seated Row"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=WW-pOAke1aw&ab_channel=%E8%B6%85%E6%A0%B8%E5%BF%83%E5%81%A5%E8%BA%AB%E4%B8%AD%E5%BF%83HypercoreFitness",
+      "start": 52,
+      "end": 125
+    },
+    "id": 51,
+    "nameZh": "俯身仰臥槓鈴划船",
+    "pushPull": 2,
+    "upperLowerCore": 1,
+    "nameEn": "Bent-Over Reverse-Grip Barbell Row",
+    "level": 3,
+    "muscles": [
+      2,
+      16,
+      17
+    ],
+    "modality": 1,
+    "joint": 1
+  },
+  {
+    "modality": 1,
+    "nameZh": "單腳啞鈴箱式深蹲",
+    "nameEn": "Single-Leg Dumbbell Box Squat",
+    "level": 3,
+    "pushPull": 1,
+    "joint": 1,
+    "upperLowerCore": 2,
+    "id": 192,
+    "muscles": [
+      6,
+      22
+    ]
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Bq6V2WLVl5I&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 633,
+      "end": 666
+    },
+    "nameZh": "反握滑輪下拉",
+    "pushPull": 2,
+    "modality": 2,
+    "level": 2,
+    "nameEn": "Reverse-Grip Lat Pulldown",
+    "id": 42,
+    "muscles": [
+      2,
+      16
+    ],
+    "upperLowerCore": 1,
+    "joint": 1
+  },
+  {
+    "upperLowerCore": 3,
+    "nameEn": "Heel Touch",
+    "joint": 1,
+    "level": 1,
+    "pushPull": 1,
+    "id": 34,
+    "modality": 1,
+    "nameZh": "觸踝",
+    "muscles": [
+      1,
+      15
+    ]
+  },
+  {
+    "nameZh": "跪姿單手滑輪繩索後三角平舉",
+    "modality": 2,
+    "level": 3,
+    "id": 224,
+    "pushPull": 1,
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "nameEn": "Kneeling Single-Arm Cable Rear Delt Raise",
+    "upperLowerCore": 1,
+    "joint": 2
+  },
+  {
+    "id": 107,
+    "upperLowerCore": 2,
+    "nameZh": "單腳腿推(小腿)",
+    "level": 3,
+    "modality": 3,
+    "muscles": [
+      4,
+      18
+    ],
+    "joint": 2,
+    "nameEn": "Single-Leg Calf Press",
+    "pushPull": 1
+  },
+  {
+    "level": 1,
+    "nameZh": "三頭肌伸展",
+    "modality": 1,
+    "pushPull": 1,
+    "id": 267,
+    "upperLowerCore": 1,
+    "nameEn": "Tricep Extensions",
+    "muscles": [
+      30,
+      9
+    ],
+    "joint": 2
+  },
+  {
+    "upperLowerCore": 1,
+    "nameEn": "Incline Twisting Dumbbell Fly",
+    "modality": 1,
+    "nameZh": "上斜啞鈴旋轉飛鳥",
+    "pushPull": 1,
+    "level": 3,
+    "muscles": [
+      5,
+      20
+    ],
+    "id": 145,
+    "joint": 2
+  },
+  {
+    "id": 266,
+    "muscles": [
+      30,
+      9
+    ],
+    "joint": 2,
+    "pushPull": 1,
+    "nameZh": "毛巾三頭肌下推",
+    "upperLowerCore": 1,
+    "modality": 2,
+    "nameEn": "Towel Triceps Pushdown",
+    "level": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=gUZ6YuKlpFw&ab_channel=KosmoFit",
+      "start": 347,
+      "end": 376
+    },
+    "pushPull": 1,
+    "nameEn": "Reverse Crunch",
+    "joint": 1,
+    "id": 5,
+    "level": 1,
+    "nameZh": "反向捲腹",
+    "muscles": [
+      1,
+      12
+    ],
+    "modality": 1,
+    "upperLowerCore": 3
+  },
+  {
+    "upperLowerCore": 1,
+    "id": 256,
+    "nameEn": "Overhead Dumbbell Triceps Extension",
+    "pushPull": 1,
+    "joint": 2,
+    "modality": 1,
+    "level": 1,
+    "nameZh": "啞鈴過頭三頭肌伸展",
+    "muscles": [
+      30,
+      9
+    ]
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=gUZ6YuKlpFw&ab_channel=KosmoFit",
+      "start": 96,
+      "end": 126
+    },
+    "upperLowerCore": 1,
+    "muscles": [
+      2,
+      16,
+      17
+    ],
+    "modality": 1,
+    "id": 48,
+    "nameZh": "俯身啞鈴划船",
+    "level": 1,
+    "nameEn": "Bent-Over Dumbbell Row",
+    "joint": 1,
+    "pushPull": 2
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=gUZ6YuKlpFw&ab_channel=KosmoFit",
+      "start": 83,
+      "end": 95
+    },
+    "joint": 1,
+    "modality": 1,
+    "muscles": [
+      5,
+      20
+    ],
+    "upperLowerCore": 1,
+    "nameZh": "槓鈴仰臥推舉",
+    "id": 113,
+    "level": 2,
+    "nameEn": "Barbell Bench Press",
+    "pushPull": 1
+  },
+  {
+    "level": 1,
+    "joint": 2,
+    "muscles": [
+      6,
+      22
+    ],
+    "nameZh": "腿部伸展",
+    "upperLowerCore": 2,
+    "pushPull": 1,
+    "id": 200,
+    "nameEn": "Leg Extension",
+    "modality": 3
+  },
+  {
+    "nameEn": "Bent-Over Alternating Dumbbell Row",
+    "muscles": [
+      2,
+      16,
+      17
+    ],
+    "nameZh": "俯身交替啞鈴划船",
+    "level": 2,
+    "id": 46,
+    "modality": 1,
+    "upperLowerCore": 1,
+    "pushPull": 2,
+    "joint": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=gUZ6YuKlpFw&ab_channel=KosmoFit",
+      "start": 243,
+      "end": 285
+    },
+    "upperLowerCore": 2,
+    "muscles": [
+      6,
+      22
+    ],
+    "id": 183,
+    "pushPull": 1,
+    "level": 1,
+    "modality": 3,
+    "nameZh": "腿推",
+    "nameEn": "Leg Press",
+    "joint": 1
+  },
+  {
+    "joint": 2,
+    "pushPull": 1,
+    "modality": 2,
+    "muscles": [
+      30,
+      9
+    ],
+    "nameEn": "V-Bar Tricep Pushdown",
+    "level": 1,
+    "upperLowerCore": 1,
+    "id": 270,
+    "nameZh": "V-Bar 三頭肌下推"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=vC9c7Ubmo1Q&ab_channel=KosmoFit",
+      "start": 340,
+      "end": 385
+    },
+    "joint": 1,
+    "modality": 1,
+    "upperLowerCore": 2,
+    "id": 151,
+    "level": 3,
+    "muscles": [
+      6,
+      21
+    ],
+    "nameEn": "Elevated Single-Leg Hip Lift",
+    "pushPull": 2,
+    "nameZh": "上/下斜單腳提臀"
+  },
+  {
+    "upperLowerCore": 1,
+    "joint": 2,
+    "modality": 3,
+    "level": 1,
+    "pushPull": 1,
+    "muscles": [
+      5,
+      20
+    ],
+    "nameZh": "蝴蝶機飛鳥",
+    "id": 148,
+    "nameEn": "Pec Deck Fly"
+  },
+  {
+    "nameZh": "啞鈴仰臥推舉",
+    "level": 1,
+    "muscles": [
+      5,
+      20
+    ],
+    "modality": 1,
+    "id": 117,
+    "pushPull": 1,
+    "upperLowerCore": 1,
+    "joint": 1,
+    "nameEn": "Dumbbell Bench Press"
+  },
+  {
+    "modality": 1,
+    "upperLowerCore": 2,
+    "nameEn": "Lateral Squat",
+    "muscles": [
+      6,
+      22
+    ],
+    "pushPull": 1,
+    "nameZh": "側深蹲",
+    "level": 1,
+    "joint": 1,
+    "id": 181
+  },
+  {
+    "joint": 2,
+    "level": 1,
+    "modality": 3,
+    "muscles": [
+      4,
+      18
+    ],
+    "nameZh": "腿推(小腿)",
+    "pushPull": 1,
+    "nameEn": "Calf Press",
+    "upperLowerCore": 2,
+    "id": 103
+  },
+  {
+    "joint": 1,
+    "level": 1,
+    "nameEn": "Standing Cable Row",
+    "upperLowerCore": 1,
+    "nameZh": "站姿繩索划船",
+    "id": 62,
+    "pushPull": 2,
+    "modality": 2,
+    "muscles": [
+      2,
+      16,
+      17
+    ]
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=wmAXnzLD5nY&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 80,
+      "end": 223
+    },
+    "upperLowerCore": 2,
+    "joint": 1,
+    "id": 196,
+    "level": 3,
+    "nameZh": "分腿深蹲",
+    "modality": 1,
+    "muscles": [
+      6,
+      22
+    ],
+    "nameEn": "Split Squat",
+    "pushPull": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=qOtplIldWFo&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 99,
+      "end": 108
+    },
+    "modality": 1,
+    "joint": 2,
+    "level": 2,
+    "muscles": [
+      30,
+      3
+    ],
+    "nameZh": "牧師椅單手啞鈴彎舉",
+    "pushPull": 2,
+    "nameEn": "Preacher Single-Arm Dumbbell Curl",
+    "id": 91,
+    "upperLowerCore": 1
+  },
+  {
+    "modality": 1,
+    "id": 94,
+    "joint": 2,
+    "nameZh": "坐姿交替彎舉",
+    "nameEn": "Seated Alternating Curl",
+    "level": 1,
+    "pushPull": 2,
+    "upperLowerCore": 1,
+    "muscles": [
+      30,
+      3
+    ]
+  },
+  {
+    "joint": 1,
+    "muscles": [
+      1,
+      14
+    ],
+    "modality": 1,
+    "pushPull": 1,
+    "upperLowerCore": 3,
+    "nameEn": "Weighted V-Up",
+    "level": 2,
+    "nameZh": "負重 V 型上舉",
+    "id": 27
+  },
+  {
+    "joint": 1,
+    "pushPull": 1,
+    "nameZh": "胸推",
+    "id": 114,
+    "muscles": [
+      5,
+      20
+    ],
+    "nameEn": "Chest Press",
+    "modality": 3,
+    "upperLowerCore": 1,
+    "level": 1
+  },
+  {
+    "level": 3,
+    "nameZh": "槓鈴側登階",
+    "pushPull": 1,
+    "nameEn": "Lateral Barbell Step-Up",
+    "upperLowerCore": 2,
+    "modality": 1,
+    "joint": 1,
+    "muscles": [
+      6,
+      22
+    ],
+    "id": 180
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Ufw6TSuesV0&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 17,
+      "end": 41
+    },
+    "pushPull": 1,
+    "modality": 2,
+    "nameEn": "Cable Crossover",
+    "id": 138,
+    "muscles": [
+      5,
+      20
+    ],
+    "nameZh": "滑輪繩索交叉",
+    "upperLowerCore": 1,
+    "joint": 2,
+    "level": 3
+  },
+  {
+    "modality": 1,
+    "upperLowerCore": 2,
+    "level": 2,
+    "muscles": [
+      6,
+      21
+    ],
+    "joint": 1,
+    "pushPull": 2,
+    "id": 150,
+    "nameEn": "Elevated Hip Lift",
+    "nameZh": "上/下斜提臀"
+  },
+  {
+    "modality": 3,
+    "nameZh": "下斜史密斯仰臥推舉",
+    "id": 116,
+    "upperLowerCore": 1,
+    "pushPull": 1,
+    "level": 3,
+    "muscles": [
+      5,
+      20
+    ],
+    "nameEn": "Decline Smith Machine Bench Press",
+    "joint": 1
+  },
+  {
+    "level": 1,
+    "id": 98,
+    "joint": 2,
+    "pushPull": 2,
+    "modality": 1,
+    "nameEn": "Single-Arm Barbell Curl",
+    "nameZh": "單手啞鈴彎舉",
+    "muscles": [
+      30,
+      3
+    ],
+    "upperLowerCore": 1
+  },
+  {
+    "upperLowerCore": 1,
+    "nameEn": "Seated Dumbbell Rear Delt Raise",
+    "pushPull": 1,
+    "modality": 1,
+    "level": 1,
+    "joint": 2,
+    "nameZh": "坐姿啞鈴後三角平舉",
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "id": 230
+  },
+  {
+    "modality": 1,
+    "nameZh": "俯身啞鈴後三角平舉",
+    "joint": 2,
+    "id": 219,
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "nameEn": "Bent-Over Dumbbell Rear Delt Raise",
+    "pushPull": 1,
+    "level": 2,
+    "upperLowerCore": 1
+  },
+  {
+    "muscles": [
+      1,
+      12
+    ],
+    "joint": 1,
+    "nameEn": "Reverse Medicine Ball Crunch",
+    "level": 3,
+    "nameZh": "反向藥球捲腹",
+    "pushPull": 1,
+    "upperLowerCore": 3,
+    "id": 6,
+    "modality": 1
+  },
+  {
+    "muscles": [
+      6,
+      22
+    ],
+    "joint": 1,
+    "pushPull": 1,
+    "level": 3,
+    "nameZh": "槓鈴登階",
+    "modality": 1,
+    "nameEn": "Barbell Step-Up",
+    "id": 167,
+    "upperLowerCore": 2
+  },
+  {
+    "joint": 1,
+    "modality": 1,
+    "pushPull": 1,
+    "nameZh": "上斜仰臥推舉",
+    "muscles": [
+      5,
+      20
+    ],
+    "level": 3,
+    "nameEn": "Incline Bench Press",
+    "upperLowerCore": 1,
+    "id": 123
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=T-o_iSdDfeU&ab_channel=KosmoFit",
+      "start": 330,
+      "end": 346
+    },
+    "pushPull": 2,
+    "level": 2,
+    "muscles": [
+      30,
+      3
+    ],
+    "nameZh": "單手滑輪繩索彎舉",
+    "joint": 2,
+    "upperLowerCore": 1,
+    "nameEn": "Single-Arm Cable Curl",
+    "id": 99,
+    "modality": 1
+  },
+  {
+    "muscles": [
+      30,
+      9
+    ],
+    "nameEn": "Machine Dips",
+    "level": 1,
+    "upperLowerCore": 1,
+    "joint": 1,
+    "nameZh": "機械式雙槓撐體",
+    "id": 239,
+    "pushPull": 1,
+    "modality": 3
+  },
+  {
+    "nameZh": "屈膝藥球臀旋",
+    "modality": 1,
+    "muscles": [
+      1,
+      13
+    ],
+    "joint": 1,
+    "id": 8,
+    "pushPull": 1,
+    "level": 3,
+    "nameEn": "Bent-Knee Medicine Ball Hip Rotation",
+    "upperLowerCore": 3
+  },
+  {
+    "nameZh": "上斜史密斯仰臥推舉",
+    "level": 3,
+    "upperLowerCore": 1,
+    "joint": 1,
+    "pushPull": 1,
+    "nameEn": "Incline Smith Machine Bench Press",
+    "muscles": [
+      5,
+      20
+    ],
+    "id": 127,
+    "modality": 3
+  },
+  {
+    "nameZh": "啞鈴槌式彎舉",
+    "id": 74,
+    "muscles": [
+      30,
+      3
+    ],
+    "joint": 2,
+    "nameEn": "Dumbell Hammer Curl",
+    "upperLowerCore": 1,
+    "level": 1,
+    "modality": 1,
+    "pushPull": 2
+  },
+  {
+    "nameZh": "仰臥啞鈴外旋",
+    "nameEn": "Lying Dumbbell External Rotation",
+    "id": 225,
+    "modality": 1,
+    "upperLowerCore": 1,
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "joint": 2,
+    "level": 1,
+    "pushPull": 1
+  },
+  {
+    "nameEn": "Lying Machine Squat",
+    "muscles": [
+      6,
+      22
+    ],
+    "id": 185,
+    "upperLowerCore": 2,
+    "modality": 3,
+    "joint": 1,
+    "pushPull": 1,
+    "level": 1,
+    "nameZh": "仰臥機械式深蹲"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=vC9c7Ubmo1Q&ab_channel=KosmoFit",
+      "start": 295,
+      "end": 330
+    },
+    "muscles": [
+      2,
+      16,
+      17
+    ],
+    "nameEn": "Machine Row",
+    "modality": 3,
+    "upperLowerCore": 1,
+    "pushPull": 2,
+    "id": 53,
+    "joint": 1,
+    "level": 1,
+    "nameZh": "機械式划船"
+  },
+  {
+    "modality": 1,
+    "joint": 1,
+    "upperLowerCore": 2,
+    "level": 2,
+    "nameZh": "單手啞鈴側深蹲",
+    "id": 189,
+    "muscles": [
+      6,
+      22
+    ],
+    "pushPull": 1,
+    "nameEn": "Single-Arm Dumbbell Side Squat"
+  },
+  {
+    "modality": 1,
+    "nameZh": "下斜單手啞鈴三頭肌伸展",
+    "upperLowerCore": 1,
+    "level": 3,
+    "joint": 2,
+    "nameEn": "Decline Single-Arm Dumbbell Triceps Extension",
+    "id": 243,
+    "muscles": [
+      30,
+      9
+    ],
+    "pushPull": 1
+  },
+  {
+    "id": 242,
+    "nameEn": "Decline Single Dumbbell Triceps Extension",
+    "nameZh": "下斜單手啞鈴三頭肌伸展",
+    "upperLowerCore": 1,
+    "level": 3,
+    "modality": 1,
+    "muscles": [
+      30,
+      9
+    ],
+    "joint": 2,
+    "pushPull": 1
+  },
+  {
+    "muscles": [
+      4,
+      18
+    ],
+    "level": 1,
+    "nameEn": "Dumbbell Calf Raise",
+    "id": 106,
+    "joint": 2,
+    "modality": 1,
+    "nameZh": "啞鈴小腿上提",
+    "pushPull": 1,
+    "upperLowerCore": 2
+  },
+  {
+    "level": 1,
+    "joint": 1,
+    "pushPull": 1,
+    "muscles": [
+      5,
+      20
+    ],
+    "nameEn": "Machine Vertical Bench Press",
+    "nameZh": "機械式垂直仰臥推舉",
+    "upperLowerCore": 1,
+    "id": 131,
+    "modality": 3
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=c0jejD_2W-w&ab_channel=KosmoFit",
+      "start": 110,
+      "end": 209
+    },
+    "pushPull": 1,
+    "upperLowerCore": 2,
+    "muscles": [
+      6,
+      22
+    ],
+    "modality": 1,
+    "joint": 1,
+    "level": 2,
+    "id": 193,
+    "nameEn": "Single-Leg Dumbbell Squat",
+    "nameZh": "單腳啞鈴深蹲"
+  },
+  {
+    "upperLowerCore": 3,
+    "muscles": [
+      2,
+      7,
+      23
+    ],
+    "level": 1,
+    "nameZh": "交替超人式",
+    "modality": 1,
+    "id": 202,
+    "pushPull": 2,
+    "joint": 1,
+    "nameEn": "Alternating Superman"
+  },
+  {
+    "muscles": [
+      6,
+      22
+    ],
+    "nameEn": "Barbell Hack Squat",
+    "modality": 1,
+    "pushPull": 1,
+    "id": 161,
+    "level": 3,
+    "joint": 1,
+    "upperLowerCore": 2,
+    "nameZh": "槓鈴哈克深蹲"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=xbuegWdo5s8&t=152s&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 118,
+      "end": 164
+    },
+    "pushPull": 2,
+    "nameEn": "Close-Grip Lat Pulldown",
+    "joint": 1,
+    "id": 38,
+    "modality": 3,
+    "muscles": [
+      2,
+      16
+    ],
+    "level": 1,
+    "nameZh": "窄握滑輪下拉",
+    "upperLowerCore": 1
+  },
+  {
+    "nameEn": "Preacher Hammer Dumbbell Curl",
+    "joint": 2,
+    "modality": 1,
+    "upperLowerCore": 1,
+    "level": 2,
+    "pushPull": 2,
+    "muscles": [
+      30,
+      3
+    ],
+    "id": 90,
+    "nameZh": "牧師椅槌式啞鈴彎舉"
+  },
+  {
+    "modality": 1,
+    "upperLowerCore": 3,
+    "muscles": [
+      1,
+      13
+    ],
+    "nameZh": "下斜交叉仰臥起坐",
+    "pushPull": 1,
+    "id": 13,
+    "nameEn": "Decline Twisting Sit-Up",
+    "joint": 1,
+    "level": 3
+  },
+  {
+    "muscles": [
+      5,
+      20
+    ],
+    "level": 1,
+    "upperLowerCore": 1,
+    "id": 130,
+    "joint": 1,
+    "nameEn": "Machine Bench Press",
+    "modality": 3,
+    "nameZh": "機械式仰臥推舉",
+    "pushPull": 1
+  },
+  {
+    "muscles": [
+      6,
+      22
+    ],
+    "pushPull": 1,
+    "upperLowerCore": 2,
+    "nameZh": "跨步蹲",
+    "id": 198,
+    "joint": 1,
+    "level": 2,
+    "modality": 1,
+    "nameEn": "Walking Lunge"
+  },
+  {
+    "joint": 1,
+    "level": 1,
+    "upperLowerCore": 3,
+    "nameZh": "超人式",
+    "modality": 1,
+    "id": 205,
+    "pushPull": 2,
+    "muscles": [
+      2,
+      7,
+      23
+    ],
+    "nameEn": "Superman"
+  },
+  {
+    "pushPull": 1,
+    "nameEn": "Single-Leg Extension",
+    "joint": 2,
+    "muscles": [
+      6,
+      22
+    ],
+    "modality": 3,
+    "level": 2,
+    "upperLowerCore": 2,
+    "nameZh": "單腳伸展",
+    "id": 201
+  },
+  {
+    "pushPull": 2,
+    "nameZh": "雙手繩索滑輪過頭彎舉",
+    "joint": 2,
+    "level": 3,
+    "modality": 2,
+    "id": 84,
+    "nameEn": "Overhead Two-Arm Cable Curl",
+    "upperLowerCore": 1,
+    "muscles": [
+      30,
+      3
+    ]
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ikGe_-Wle8s&ab_channel=KosmoFit",
+      "start": 410,
+      "end": 474
+    },
+    "muscles": [
+      30,
+      3
+    ],
+    "nameZh": "啞鈴集中彎舉",
+    "id": 70,
+    "level": 2,
+    "modality": 1,
+    "nameEn": "Concentration Dumbbell Curl",
+    "upperLowerCore": 1,
+    "pushPull": 2,
+    "joint": 2
+  },
+  {
+    "id": 170,
+    "nameZh": "啞鈴三點式弓箭步",
+    "level": 3,
+    "joint": 1,
+    "upperLowerCore": 2,
+    "nameEn": "Dumbbell Diagonal Lunge",
+    "muscles": [
+      6,
+      22
+    ],
+    "modality": 1,
+    "pushPull": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Ufw6TSuesV0&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 78,
+      "end": 97
+    },
+    "joint": 2,
+    "nameEn": "Rope Cable Curl",
+    "id": 93,
+    "upperLowerCore": 1,
+    "muscles": [
+      30,
+      3
+    ],
+    "pushPull": 2,
+    "level": 2,
+    "modality": 2,
+    "nameZh": "雙頭繩索滑輪彎舉"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=MzLZXUnekuI&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 62,
+      "end": 122
+    },
+    "muscles": [
+      5,
+      20
+    ],
+    "modality": 3,
+    "joint": 1,
+    "upperLowerCore": 1,
+    "id": 135,
+    "nameEn": "Smith Machine Bench Press",
+    "nameZh": "史密斯仰臥推舉",
+    "pushPull": 1,
+    "level": 2
+  },
+  {
+    "muscles": [
+      1,
+      15
+    ],
+    "level": 1,
+    "nameEn": "Sit-Up",
+    "id": 35,
+    "joint": 1,
+    "upperLowerCore": 3,
+    "modality": 1,
+    "pushPull": 1,
+    "nameZh": "仰臥起坐"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=71UofCP10lc&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 200,
+      "end": 222
+    },
+    "joint": 1,
+    "nameZh": "滑輪下拉",
+    "muscles": [
+      2,
+      16
+    ],
+    "nameEn": "Lat Pulldown",
+    "level": 1,
+    "upperLowerCore": 1,
+    "id": 40,
+    "modality": 2,
+    "pushPull": 2
+  },
+  {
+    "pushPull": 1,
+    "upperLowerCore": 2,
+    "level": 2,
+    "muscles": [
+      6,
+      22
+    ],
+    "joint": 2,
+    "id": 199,
+    "modality": 3,
+    "nameEn": "Alternating Leg Extension",
+    "nameZh": "交替腿部伸展"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=KijJcR7SOBo&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 127,
+      "end": 195
+    },
+    "modality": 1,
+    "level": 3,
+    "upperLowerCore": 1,
+    "joint": 1,
+    "pushPull": 2,
+    "muscles": [
+      2,
+      16
+    ],
+    "id": 43,
+    "nameEn": "Reverse-Grip Pull-Up",
+    "nameZh": "反握引體向上"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ikGe_-Wle8s&ab_channel=KosmoFit",
+      "start": 169,
+      "end": 226
+    },
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "nameEn": "Dumbbell Lateral Raise",
+    "upperLowerCore": 1,
+    "joint": 2,
+    "modality": 1,
+    "id": 222,
+    "level": 1,
+    "pushPull": 1,
+    "nameZh": "啞鈴側平舉"
+  },
+  {
+    "muscles": [
+      6,
+      21
+    ],
+    "nameZh": "屈膝單腳提臀",
+    "level": 3,
+    "joint": 1,
+    "pushPull": 2,
+    "nameEn": "Bent-Knee Single-Leg Hip Lift",
+    "upperLowerCore": 2,
+    "modality": 1,
+    "id": 149
+  },
+  {
+    "muscles": [
+      6,
+      22
+    ],
+    "nameEn": "Barbell Split Squat",
+    "id": 165,
+    "modality": 1,
+    "upperLowerCore": 2,
+    "level": 3,
+    "nameZh": "槓鈴分腿深蹲",
+    "pushPull": 1,
+    "joint": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ikGe_-Wle8s&ab_channel=KosmoFit",
+      "start": 53,
+      "end": 85
+    },
+    "modality": 1,
+    "nameEn": "Dumbbell Shoulder Press",
+    "level": 2,
+    "id": 211,
+    "nameZh": "啞鈴肩推",
+    "joint": 1,
+    "pushPull": 1,
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "upperLowerCore": 1
+  },
+  {
+    "pushPull": 2,
+    "nameEn": "Cross-Body Dumbbell Hammer Curl",
+    "upperLowerCore": 1,
+    "id": 71,
+    "joint": 2,
+    "nameZh": "跨身啞鈴槌式彎舉",
+    "level": 3,
+    "muscles": [
+      30,
+      3
+    ],
+    "modality": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=71UofCP10lc&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 121,
+      "end": 173
+    },
+    "pushPull": 2,
+    "id": 37,
+    "modality": 1,
+    "muscles": [
+      2,
+      16
+    ],
+    "level": 1,
+    "upperLowerCore": 1,
+    "nameZh": "輔助引體向上",
+    "nameEn": "Assisted Pull-Up",
+    "joint": 1
+  },
+  {
+    "upperLowerCore": 1,
+    "id": 134,
+    "level": 2,
+    "pushPull": 1,
+    "nameEn": "Single-Arm Dumbbell Bench Press",
+    "nameZh": "單手啞鈴仰臥推舉",
+    "muscles": [
+      5,
+      20
+    ],
+    "modality": 1,
+    "joint": 1
+  },
+  {
+    "level": 1,
+    "modality": 1,
+    "id": 136,
+    "upperLowerCore": 1,
+    "muscles": [
+      5,
+      20
+    ],
+    "nameZh": "啞鈴旋轉仰臥推舉",
+    "pushPull": 1,
+    "joint": 1,
+    "nameEn": "Twisting Dumbbell Bench Press"
+  },
+  {
+    "nameZh": "下斜啞鈴三頭肌伸展",
+    "joint": 2,
+    "upperLowerCore": 1,
+    "pushPull": 1,
+    "muscles": [
+      30,
+      9
+    ],
+    "nameEn": "Decline Dumbbell Triceps Extension",
+    "id": 240,
+    "level": 3,
+    "modality": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=DqpQIITg6ZY&ab_channel=KosmoFit",
+      "start": 205,
+      "end": 291
+    },
+    "level": 1,
+    "joint": 1,
+    "muscles": [
+      2,
+      16,
+      17
+    ],
+    "modality": 1,
+    "upperLowerCore": 1,
+    "nameEn": "Single-Arm Dumbbell Row",
+    "pushPull": 2,
+    "id": 60,
+    "nameZh": "單手啞鈴划船"
+  },
+  {
+    "nameEn": "Dumbbell Front Raise",
+    "upperLowerCore": 1,
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "joint": 1,
+    "id": 210,
+    "modality": 1,
+    "nameZh": "啞鈴前平舉",
+    "level": 1,
+    "pushPull": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=coDGzOOxPk8&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 305,
+      "end": 338
+    },
+    "modality": 1,
+    "nameZh": "坐姿小腿上提",
+    "pushPull": 1,
+    "level": 1,
+    "joint": 2,
+    "muscles": [
+      4,
+      18
+    ],
+    "nameEn": "Calf Raise - Seated",
+    "upperLowerCore": 2,
+    "id": 104
+  },
+  {
+    "level": 3,
+    "modality": 2,
+    "nameEn": "Reverse Tricep Pushdown",
+    "muscles": [
+      30,
+      9
+    ],
+    "pushPull": 1,
+    "id": 262,
+    "upperLowerCore": 1,
+    "nameZh": "反向三頭肌下推",
+    "joint": 2
+  },
+  {
+    "muscles": [
+      5,
+      20
+    ],
+    "upperLowerCore": 1,
+    "nameZh": "寬握伏地挺身",
+    "modality": 1,
+    "pushPull": 1,
+    "level": 1,
+    "nameEn": "Wide-Grip Push-Up",
+    "joint": 1,
+    "id": 137
+  },
+  {
+    "modality": 1,
+    "upperLowerCore": 1,
+    "id": 207,
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "nameZh": "啞鈴阿諾肩推",
+    "level": 2,
+    "joint": 1,
+    "pushPull": 1,
+    "nameEn": "Arnold Dumbbell Press"
+  },
+  {
+    "joint": 1,
+    "nameEn": "Medicine Ball V-Up",
+    "id": 25,
+    "muscles": [
+      1,
+      14
+    ],
+    "modality": 1,
+    "upperLowerCore": 3,
+    "pushPull": 1,
+    "level": 3,
+    "nameZh": "藥球 V 型上舉"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=n9i40D3y8jk&ab_channel=%E8%B6%85%E6%A0%B8%E5%BF%83%E5%81%A5%E8%BA%AB%E4%B8%AD%E5%BF%83HypercoreFitness",
+      "start": 162,
+      "end": 172
+    },
+    "level": 3,
+    "modality": 1,
+    "joint": 1,
+    "upperLowerCore": 3,
+    "pushPull": 3,
+    "muscles": [
+      1,
+      14
+    ],
+    "id": 22,
+    "nameZh": "側平板支撐 (腳趾)",
+    "nameEn": "Side-Plank (from toes)"
+  },
+  {
+    "pushPull": 1,
+    "nameEn": "Overhead EZ-Bar Triceps Extension",
+    "upperLowerCore": 1,
+    "modality": 1,
+    "id": 257,
+    "level": 3,
+    "nameZh": "EZ-Bar 過頭三頭肌伸展",
+    "muscles": [
+      30,
+      9
+    ],
+    "joint": 2
+  },
+  {
+    "joint": 2,
+    "modality": 3,
+    "muscles": [
+      6,
+      21
+    ],
+    "id": 156,
+    "level": 2,
+    "upperLowerCore": 2,
+    "nameEn": "Lying Alternating Leg Curl",
+    "pushPull": 2,
+    "nameZh": "仰臥交替腿部彎舉"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ikGe_-Wle8s&ab_channel=KosmoFit",
+      "start": 86,
+      "end": 140
+    },
+    "pushPull": 2,
+    "upperLowerCore": 1,
+    "joint": 2,
+    "muscles": [
+      30,
+      3
+    ],
+    "nameZh": "坐姿啞鈴彎舉",
+    "id": 96,
+    "level": 1,
+    "modality": 1,
+    "nameEn": "Seated Dumbbell Curl"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=8TRJI7g3pD0&ab_channel=%E7%87%9F%E9%A4%8A%E5%81%A5%E8%BA%AB%E8%91%9B%E6%A0%BCPeeta",
+      "start": 223,
+      "end": 262
+    },
+    "muscles": [
+      30,
+      3
+    ],
+    "level": 3,
+    "id": 85,
+    "pushPull": 2,
+    "nameZh": "雙頭繩索滑輪過頭彎舉",
+    "modality": 2,
+    "nameEn": "Overhead Rope Cable Curl",
+    "joint": 2,
+    "upperLowerCore": 1
+  },
+  {
+    "joint": 2,
+    "modality": 3,
+    "nameZh": "腿部彎舉",
+    "id": 155,
+    "level": 1,
+    "upperLowerCore": 2,
+    "nameEn": "Leg Curl",
+    "muscles": [
+      6,
+      21
+    ],
+    "pushPull": 2
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=coDGzOOxPk8&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 178,
+      "end": 142
+    },
+    "id": 174,
+    "joint": 1,
+    "muscles": [
+      6,
+      22
+    ],
+    "modality": 1,
+    "pushPull": 1,
+    "level": 3,
+    "nameEn": "Dumbbell Split Squat",
+    "nameZh": "啞鈴分腿深蹲",
+    "upperLowerCore": 2
+  },
+  {
+    "muscles": [
+      6,
+      22
+    ],
+    "joint": 1,
+    "upperLowerCore": 2,
+    "level": 3,
+    "pushPull": 1,
+    "nameZh": "單腳箱式深蹲",
+    "modality": 1,
+    "id": 191,
+    "nameEn": "Single-Leg Box Squat"
+  },
+  {
+    "modality": 1,
+    "joint": 1,
+    "nameZh": "上斜交替啞鈴仰臥推舉",
+    "muscles": [
+      5,
+      20
+    ],
+    "pushPull": 1,
+    "id": 121,
+    "level": 3,
+    "upperLowerCore": 1,
+    "nameEn": "Incline Alternating Dumbbell Bench Press"
+  },
+  {
+    "pushPull": 1,
+    "nameEn": "Crunch",
+    "id": 31,
+    "joint": 1,
+    "modality": 1,
+    "muscles": [
+      1,
+      15
+    ],
+    "nameZh": "捲腹",
+    "level": 1,
+    "upperLowerCore": 3
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=2NtLnVk44I0",
+      "start": 0,
+      "end": 101
+    },
+    "pushPull": 1,
+    "modality": 2,
+    "id": 9,
+    "upperLowerCore": 3,
+    "nameZh": "滑輪繩索伐木",
+    "joint": 1,
+    "muscles": [
+      1,
+      13
+    ],
+    "nameEn": "Cable Chop",
+    "level": 3
+  },
+  {
+    "id": 186,
+    "joint": 1,
+    "muscles": [
+      6,
+      22
+    ],
+    "nameEn": "Machine Hack Squat",
+    "pushPull": 1,
+    "upperLowerCore": 2,
+    "nameZh": "機械式哈克深蹲",
+    "modality": 3,
+    "level": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=gUZ6YuKlpFw&ab_channel=KosmoFit",
+      "start": 142,
+      "end": 170
+    },
+    "nameZh": "上斜臀推",
+    "nameEn": "Incline Hip Thrust",
+    "level": 3,
+    "pushPull": 1,
+    "joint": 1,
+    "modality": 1,
+    "muscles": [
+      1,
+      12
+    ],
+    "id": 2,
+    "upperLowerCore": 3
+  },
+  {
+    "nameEn": "Smith Machine Calf Raise",
+    "upperLowerCore": 2,
+    "muscles": [
+      4,
+      18
+    ],
+    "modality": 3,
+    "nameZh": "史密斯小腿上提",
+    "pushPull": 1,
+    "joint": 2,
+    "id": 109,
+    "level": 2
+  },
+  {
+    "upperLowerCore": 1,
+    "modality": 1,
+    "muscles": [
+      5,
+      20
+    ],
+    "id": 112,
+    "level": 2,
+    "nameZh": "交替啞鈴仰臥推舉",
+    "nameEn": "Alternating Dumbbell Bench Press",
+    "pushPull": 1,
+    "joint": 1
+  },
+  {
+    "level": 1,
+    "pushPull": 1,
+    "joint": 1,
+    "id": 235,
+    "nameEn": "Assisted Dips",
+    "modality": 1,
+    "nameZh": "輔助雙槓撐體",
+    "muscles": [
+      30,
+      9
+    ],
+    "upperLowerCore": 1
+  },
+  {
+    "muscles": [
+      30,
+      3
+    ],
+    "level": 1,
+    "modality": 1,
+    "pushPull": 2,
+    "upperLowerCore": 1,
+    "nameEn": "Incline Single-Arm Dumbbell Curl",
+    "nameZh": "上斜單手啞鈴彎舉",
+    "id": 100,
+    "joint": 2
+  },
+  {
+    "upperLowerCore": 1,
+    "level": 1,
+    "id": 209,
+    "joint": 1,
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "nameZh": "交替啞鈴肩推",
+    "pushPull": 1,
+    "nameEn": "Dumbbell Alternating Shoulder Press",
+    "modality": 1
+  },
+  {
+    "nameEn": "Cable Front Raise",
+    "upperLowerCore": 1,
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "level": 2,
+    "joint": 2,
+    "pushPull": 1,
+    "modality": 2,
+    "nameZh": "滑輪繩索前平舉",
+    "id": 220
+  },
+  {
+    "id": 203,
+    "muscles": [
+      2,
+      7,
+      23
+    ],
+    "level": 1,
+    "upperLowerCore": 3,
+    "nameZh": "背部伸展",
+    "joint": 1,
+    "nameEn": "Back Extension",
+    "modality": 1,
+    "pushPull": 2
+  },
+  {
+    "muscles": [
+      5,
+      20
+    ],
+    "pushPull": 1,
+    "level": 3,
+    "id": 115,
+    "nameZh": "下斜啞鈴仰臥推舉",
+    "upperLowerCore": 1,
+    "modality": 1,
+    "nameEn": "Decline Dumbbell Bench Press",
+    "joint": 1
+  },
+  {
+    "upperLowerCore": 1,
+    "id": 246,
+    "level": 1,
+    "joint": 2,
+    "pushPull": 1,
+    "muscles": [
+      30,
+      9
+    ],
+    "nameEn": "Kneeling Cable Triceps Extension",
+    "nameZh": "跪姿滑輪繩索三頭肌伸展",
+    "modality": 2
+  },
+  {
+    "pushPull": 1,
+    "modality": 1,
+    "nameZh": "仰臥單手啞鈴後三角平舉",
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "id": 227,
+    "upperLowerCore": 1,
+    "level": 1,
+    "joint": 2,
+    "nameEn": "Lying Single-Arm Dumbbell Rear Delt Raise"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=EJNDwRMBQu0&ab_channel=KosmoFit",
+      "start": 226,
+      "end": 261
+    },
+    "pushPull": 2,
+    "nameZh": "單手俯身啞鈴槌式划船",
+    "level": 1,
+    "nameEn": "Single-Arm Bent-Over Hammer Dumbbell Row",
+    "modality": 1,
+    "id": 49,
+    "muscles": [
+      2,
+      16,
+      17
+    ],
+    "joint": 1,
+    "upperLowerCore": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=bZ0PvQhS20g&ab_channel=KosmoFit",
+      "start": 220,
+      "end": 298
+    },
+    "upperLowerCore": 2,
+    "id": 108,
+    "nameZh": "單腳啞鈴小腿上提",
+    "pushPull": 1,
+    "nameEn": "Single-Leg Dumbbell Calf Raise",
+    "joint": 2,
+    "level": 3,
+    "muscles": [
+      4,
+      18
+    ],
+    "modality": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=gUZ6YuKlpFw&ab_channel=KosmoFit",
+      "start": 321,
+      "end": 347
+    },
+    "id": 30,
+    "pushPull": 1,
+    "nameEn": "Crunch",
+    "nameZh": "捲腹",
+    "upperLowerCore": 3,
+    "joint": 1,
+    "modality": 1,
+    "level": 1,
+    "muscles": [
+      1,
+      15
+    ]
+  },
+  {
+    "nameZh": "側平板支撐 (提臀)",
+    "pushPull": 3,
+    "muscles": [
+      1,
+      14
+    ],
+    "joint": 1,
+    "id": 21,
+    "modality": 1,
+    "level": 1,
+    "nameEn": "Side-Plank (hip lift)",
+    "upperLowerCore": 3
+  },
+  {
+    "nameEn": "Reverse Curl",
+    "joint": 2,
+    "modality": 1,
+    "nameZh": "反手彎舉",
+    "upperLowerCore": 1,
+    "muscles": [
+      30,
+      3
+    ],
+    "level": 3,
+    "pushPull": 2,
+    "id": 92
+  },
+  {
+    "level": 2,
+    "nameZh": "雙頭繩索划船",
+    "id": 56,
+    "muscles": [
+      2,
+      16,
+      17
+    ],
+    "pushPull": 2,
+    "modality": 2,
+    "nameEn": "Rope Cable Row",
+    "upperLowerCore": 1,
+    "joint": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ZZ3rmX8YvgM&ab_channel=%E8%B6%85%E6%A0%B8%E5%BF%83%E5%81%A5%E8%BA%AB%E4%B8%AD%E5%BF%83HypercoreFitness",
+      "start": 120,
+      "end": 228
+    },
+    "modality": 1,
+    "nameZh": "平板支撐 (腳趾)",
+    "upperLowerCore": 3,
+    "pushPull": 3,
+    "level": 2,
+    "muscles": [
+      1,
+      14
+    ],
+    "id": 18,
+    "nameEn": "Front Plank (from toes)",
+    "joint": 1
+  },
+  {
+    "nameEn": "Barbell Lunge",
+    "joint": 1,
+    "pushPull": 1,
+    "modality": 1,
+    "id": 162,
+    "upperLowerCore": 2,
+    "muscles": [
+      6,
+      22
+    ],
+    "nameZh": "槓鈴弓箭步",
+    "level": 2
+  },
+  {
+    "upperLowerCore": 1,
+    "pushPull": 2,
+    "nameZh": "上斜交替啞鈴槌式彎舉",
+    "muscles": [
+      30,
+      3
+    ],
+    "id": 76,
+    "joint": 2,
+    "nameEn": "Incline Alternating Dumbbell Hammer Curl",
+    "modality": 1,
+    "level": 3
+  },
+  {
+    "modality": 1,
+    "level": 2,
+    "pushPull": 1,
+    "nameZh": "槓鈴側弓箭步",
+    "muscles": [
+      6,
+      22
+    ],
+    "joint": 1,
+    "upperLowerCore": 2,
+    "nameEn": "Barbell Side Lunge",
+    "id": 164
+  },
+  {
+    "pushPull": 1,
+    "muscles": [
+      30,
+      9
+    ],
+    "joint": 2,
+    "upperLowerCore": 1,
+    "id": 245,
+    "level": 3,
+    "nameEn": "Incline EZ-Bar Tricep Extension",
+    "nameZh": "上斜 EZ-Bar 三頭肌伸展",
+    "modality": 1
+  },
+  {
+    "nameZh": "反向捲腹",
+    "joint": 1,
+    "pushPull": 1,
+    "nameEn": "Full Reverse Crunch",
+    "level": 3,
+    "muscles": [
+      1,
+      12
+    ],
+    "id": 1,
+    "modality": 1,
+    "upperLowerCore": 3
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=8TRJI7g3pD0&ab_channel=%E7%87%9F%E9%A4%8A%E5%81%A5%E8%BA%AB%E8%91%9B%E6%A0%BCPeeta",
+      "start": 305,
+      "end": 361
+    },
+    "nameZh": "機械式彎舉",
+    "modality": 3,
+    "nameEn": "Machine Curl",
+    "id": 83,
+    "muscles": [
+      30,
+      3
+    ],
+    "level": 1,
+    "pushPull": 2,
+    "upperLowerCore": 1,
+    "joint": 2
+  },
+  {
+    "muscles": [
+      2,
+      7,
+      23
+    ],
+    "nameZh": "固定超人式",
+    "nameEn": "Superman Hold",
+    "pushPull": 2,
+    "modality": 1,
+    "upperLowerCore": 3,
+    "id": 206,
+    "joint": 1,
+    "level": 1
+  },
+  {
+    "nameEn": "Decline Sit-Up",
+    "muscles": [
+      1,
+      15
+    ],
+    "joint": 1,
+    "nameZh": "下斜仰臥起坐",
+    "id": 33,
+    "upperLowerCore": 3,
+    "modality": 1,
+    "pushPull": 1,
+    "level": 3
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=8Oht3nv_iDs&ab_channel=KosmoFit",
+      "start": 295,
+      "end": 372
+    },
+    "modality": 1,
+    "muscles": [
+      30,
+      9
+    ],
+    "level": 2,
+    "joint": 1,
+    "nameEn": "Forward Lean Dips",
+    "nameZh": "前傾雙槓撐體",
+    "pushPull": 1,
+    "id": 234,
+    "upperLowerCore": 1
+  },
+  {
+    "nameZh": "上斜啞鈴槌式仰臥推舉",
+    "nameEn": "Incline Hammer Dumbbell Bench Press",
+    "pushPull": 1,
+    "id": 125,
+    "muscles": [
+      5,
+      20
+    ],
+    "level": 3,
+    "joint": 1,
+    "modality": 1,
+    "upperLowerCore": 1
+  },
+  {
+    "joint": 1,
+    "upperLowerCore": 2,
+    "nameZh": "登階",
+    "muscles": [
+      6,
+      22
+    ],
+    "nameEn": "Step-Up",
+    "modality": 1,
+    "level": 1,
+    "pushPull": 1,
+    "id": 197
+  },
+  {
+    "joint": 2,
+    "pushPull": 1,
+    "id": 265,
+    "muscles": [
+      30,
+      9
+    ],
+    "modality": 2,
+    "nameEn": "Single-Arm Triceps Pushdown",
+    "upperLowerCore": 1,
+    "nameZh": "單手三頭肌下推",
+    "level": 2
+  },
+  {
+    "modality": 1,
+    "level": 3,
+    "nameZh": "單腳槓鈴深蹲",
+    "joint": 1,
+    "muscles": [
+      6,
+      22
+    ],
+    "upperLowerCore": 2,
+    "id": 190,
+    "pushPull": 1,
+    "nameEn": "Single-Leg Barbell Squat"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=fRvUXUPNO0I&ab_channel=%E8%B6%85%E6%A0%B8%E5%BF%83%E5%81%A5%E8%BA%AB%E4%B8%AD%E5%BF%83HypercoreFitness",
+      "start": 44,
+      "end": 245
+    },
+    "nameEn": "Lying Hip Thrust",
+    "upperLowerCore": 3,
+    "muscles": [
+      1,
+      12
+    ],
+    "joint": 1,
+    "id": 4,
+    "pushPull": 1,
+    "level": 3,
+    "modality": 1,
+    "nameZh": "仰臥臀推"
+  },
+  {
+    "nameZh": "提臀",
+    "id": 152,
+    "joint": 1,
+    "nameEn": "Hip Lift",
+    "level": 1,
+    "upperLowerCore": 2,
+    "muscles": [
+      6,
+      21
+    ],
+    "modality": 1,
+    "pushPull": 2
+  },
+  {
+    "level": 1,
+    "upperLowerCore": 2,
+    "pushPull": 1,
+    "joint": 1,
+    "id": 166,
+    "nameEn": "Barbell Squat",
+    "muscles": [
+      6,
+      22
+    ],
+    "modality": 1,
+    "nameZh": "槓鈴深蹲"
+  },
+  {
+    "modality": 1,
+    "joint": 2,
+    "pushPull": 2,
+    "nameEn": "Preacher Dumbbell Curl",
+    "muscles": [
+      30,
+      3
+    ],
+    "id": 88,
+    "nameZh": "牧師椅啞鈴彎舉",
+    "level": 2,
+    "upperLowerCore": 1
+  },
+  {
+    "muscles": [
+      8,
+      25
+    ],
+    "joint": 2,
+    "level": 1,
+    "modality": 2,
+    "upperLowerCore": 1,
+    "pushPull": 1,
+    "nameZh": "滑輪繩索外旋",
+    "nameEn": "Cable External Rotation",
+    "id": 232
+  },
+  {
+    "level": 3,
+    "nameZh": "上/下斜伏地挺身",
+    "muscles": [
+      5,
+      20
+    ],
+    "joint": 1,
+    "modality": 1,
+    "pushPull": 1,
+    "nameEn": "Elevated Push-Up",
+    "id": 119,
+    "upperLowerCore": 1
+  },
+  {
+    "pushPull": 1,
+    "nameZh": "槓鈴小腿上提",
+    "nameEn": "Barbell Calf Raise",
+    "muscles": [
+      4,
+      18
+    ],
+    "joint": 2,
+    "upperLowerCore": 2,
+    "id": 102,
+    "level": 3,
+    "modality": 1
+  },
+  {
+    "pushPull": 1,
+    "level": 2,
+    "joint": 2,
+    "id": 247,
+    "modality": 1,
+    "nameEn": "Leaning Overhead Tricep Extension",
+    "upperLowerCore": 1,
+    "nameZh": "前傾過頭三頭肌伸展",
+    "muscles": [
+      30,
+      9
+    ]
+  },
+  {
+    "muscles": [
+      6,
+      22
+    ],
+    "nameZh": "三點式弓箭步",
+    "modality": 1,
+    "id": 169,
+    "joint": 1,
+    "level": 2,
+    "pushPull": 1,
+    "nameEn": "Diagonal Lunge",
+    "upperLowerCore": 2
+  },
+  {
+    "level": 3,
+    "upperLowerCore": 1,
+    "pushPull": 2,
+    "muscles": [
+      30,
+      3
+    ],
+    "nameEn": "Preacher Cable Curl",
+    "nameZh": "牧師椅滑輪繩索彎舉",
+    "joint": 2,
+    "id": 87,
+    "modality": 2
+  },
+  {
+    "upperLowerCore": 1,
+    "muscles": [
+      30,
+      9
+    ],
+    "level": 2,
+    "pushPull": 1,
+    "joint": 1,
+    "nameZh": "菱形伏地挺身",
+    "nameEn": "Diamond Push-Up",
+    "id": 237,
+    "modality": 1
+  },
+  {
+    "level": 1,
+    "nameZh": "交替啞鈴彎舉",
+    "muscles": [
+      30,
+      3
+    ],
+    "id": 64,
+    "modality": 1,
+    "upperLowerCore": 1,
+    "joint": 2,
+    "pushPull": 2,
+    "nameEn": "Alternating Dumbbell Curl"
+  },
+  {
+    "upperLowerCore": 1,
+    "nameEn": "Bench Dips",
+    "id": 236,
+    "modality": 1,
+    "muscles": [
+      30,
+      9
+    ],
+    "level": 2,
+    "joint": 1,
+    "pushPull": 1,
+    "nameZh": "板凳支撐"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=1k-Sfc8nbv0&ab_channel=KosmoFit",
+      "start": 132,
+      "end": 328
+    },
+    "id": 208,
+    "level": 3,
+    "nameZh": "槓鈴肩推",
+    "modality": 1,
+    "upperLowerCore": 1,
+    "pushPull": 1,
+    "joint": 1,
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "nameEn": "Barbell Shoulder Press"
+  },
+  {
+    "nameZh": "仰臥雙手滑輪繩索彎舉",
+    "muscles": [
+      30,
+      3
+    ],
+    "nameEn": "Lying Two-Arm Cable Curl",
+    "pushPull": 2,
+    "modality": 2,
+    "id": 81,
+    "level": 2,
+    "joint": 2,
+    "upperLowerCore": 1
+  },
+  {
+    "nameZh": "弓箭步",
+    "id": 184,
+    "muscles": [
+      6,
+      22
+    ],
+    "upperLowerCore": 2,
+    "modality": 1,
+    "nameEn": "Lunge",
+    "joint": 1,
+    "level": 1,
+    "pushPull": 1
+  },
+  {
+    "pushPull": 1,
+    "nameZh": "下斜交叉仰臥起坐",
+    "modality": 1,
+    "joint": 1,
+    "nameEn": "Decline Cross Sit-Up",
+    "muscles": [
+      1,
+      13
+    ],
+    "level": 3,
+    "id": 12,
+    "upperLowerCore": 3
+  },
+  {
+    "nameEn": "Incline Single-Arm Dumbbell Bench Press",
+    "id": 126,
+    "level": 3,
+    "nameZh": "上斜單手啞鈴仰臥推舉",
+    "pushPull": 1,
+    "muscles": [
+      5,
+      20
+    ],
+    "upperLowerCore": 1,
+    "modality": 1,
+    "joint": 1
+  },
+  {
+    "id": 175,
+    "joint": 1,
+    "modality": 1,
+    "muscles": [
+      6,
+      22
+    ],
+    "pushPull": 1,
+    "upperLowerCore": 2,
+    "nameZh": "啞鈴深蹲",
+    "nameEn": "Dumbbell Squat",
+    "level": 1
+  },
+  {
+    "pushPull": 1,
+    "muscles": [
+      30,
+      9
+    ],
+    "modality": 1,
+    "level": 1,
+    "nameEn": "Lying Tricep Extensions",
+    "upperLowerCore": 1,
+    "joint": 2,
+    "id": 255,
+    "nameZh": "仰臥三頭肌伸展"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=K7BAXitydQ0&t=170s&ab_channel=KosmoFit",
+      "start": 103,
+      "end": 125
+    },
+    "upperLowerCore": 3,
+    "id": 16,
+    "nameEn": "Trunk Rotation",
+    "muscles": [
+      1,
+      13
+    ],
+    "level": 3,
+    "pushPull": 1,
+    "modality": 1,
+    "nameZh": "軀幹旋轉",
+    "joint": 1
+  },
+  {
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "nameZh": "仰臥啞鈴後三角平舉",
+    "upperLowerCore": 1,
+    "modality": 1,
+    "id": 226,
+    "nameEn": "Lying Dumbbell Rear Delt Raise",
+    "joint": 2,
+    "pushPull": 1,
+    "level": 1
+  },
+  {
+    "id": 110,
+    "upperLowerCore": 2,
+    "modality": 3,
+    "muscles": [
+      4,
+      19
+    ],
+    "nameEn": "Seated Calf Raise",
+    "level": 1,
+    "joint": 2,
+    "pushPull": 1,
+    "nameZh": "坐姿小腿上提"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=qOtplIldWFo&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 150,
+      "end": 155
+    },
+    "level": 3,
+    "muscles": [
+      30,
+      3
+    ],
+    "nameEn": "Spider Curl",
+    "nameZh": "前俯彎舉",
+    "pushPull": 2,
+    "modality": 1,
+    "id": 101,
+    "upperLowerCore": 1,
+    "joint": 2
+  },
+  {
+    "nameZh": "牧師椅 EZ-Bar 彎舉",
+    "nameEn": "Preacher EZ-Bar Curl",
+    "pushPull": 2,
+    "modality": 1,
+    "level": 3,
+    "id": 89,
+    "muscles": [
+      30,
+      3
+    ],
+    "joint": 2,
+    "upperLowerCore": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=m-6lp45V5eQ&ab_channel=%E6%9C%89%E8%82%8C%E5%8B%B5",
+      "start": 245,
+      "end": 256
+    },
+    "id": 3,
+    "modality": 1,
+    "joint": 1,
+    "nameZh": "上斜捲腹",
+    "muscles": [
+      1,
+      12
+    ],
+    "upperLowerCore": 3,
+    "nameEn": "Incline Reverse Crunch",
+    "pushPull": 1,
+    "level": 3
+  },
+  {
+    "pushPull": 2,
+    "upperLowerCore": 2,
+    "id": 159,
+    "modality": 3,
+    "nameZh": "坐姿腿部彎舉",
+    "joint": 2,
+    "muscles": [
+      6,
+      21
+    ],
+    "nameEn": "Seated Leg Curl",
+    "level": 1
+  },
+  {
+    "modality": 1,
+    "nameEn": "V-Bar Pull-Up",
+    "joint": 1,
+    "nameZh": "V-Bar 引體向上",
+    "upperLowerCore": 1,
+    "pushPull": 2,
+    "level": 3,
+    "id": 44,
+    "muscles": [
+      2,
+      16
+    ]
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=bZ0PvQhS20g&ab_channel=KosmoFit",
+      "start": 165,
+      "end": 204
+    },
+    "muscles": [
+      6,
+      22
+    ],
+    "modality": 1,
+    "nameEn": "Dumbbell Lunge",
+    "level": 1,
+    "nameZh": "啞鈴弓箭步",
+    "pushPull": 1,
+    "id": 171,
+    "joint": 1,
+    "upperLowerCore": 2
+  },
+  {
+    "level": 1,
+    "pushPull": 2,
+    "nameZh": "俯臥屈膝交替超人式(四腳獸)",
+    "id": 204,
+    "joint": 1,
+    "muscles": [
+      2,
+      7,
+      23
+    ],
+    "nameEn": "Quadruped Alternating Superman",
+    "upperLowerCore": 3,
+    "modality": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=m-6lp45V5eQ&ab_channel=%E6%9C%89%E8%82%8C%E5%8B%B5",
+      "start": 35,
+      "end": 192
+    },
+    "joint": 1,
+    "level": 1,
+    "id": 29,
+    "pushPull": 1,
+    "nameZh": "屈膝捲腹",
+    "upperLowerCore": 3,
+    "nameEn": "Bent-Knee Crunch",
+    "muscles": [
+      1,
+      15
+    ],
+    "modality": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ikGe_-Wle8s&ab_channel=KosmoFit",
+      "start": 306,
+      "end": 363
+    },
+    "id": 214,
+    "joint": 1,
+    "level": 2,
+    "pushPull": 1,
+    "modality": 1,
+    "nameZh": "坐姿啞鈴後三角肘平舉",
+    "nameEn": "Seated Dumbbell Rear Delt Elbow Raise",
+    "muscles": [
+      8,
+      24,
+      26
+    ],
+    "upperLowerCore": 1
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=MzLZXUnekuI&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 178,
+      "end": 230
+    },
+    "id": 72,
+    "upperLowerCore": 1,
+    "muscles": [
+      30,
+      3
+    ],
+    "nameZh": "啞鈴彎舉",
+    "modality": 1,
+    "pushPull": 2,
+    "level": 1,
+    "nameEn": "Dumbbell Curl",
+    "joint": 2
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=ikGe_-Wle8s&ab_channel=KosmoFit",
+      "start": 278,
+      "end": 297
+    },
+    "upperLowerCore": 1,
+    "nameEn": "Overhead Single-Arm Dumbbell Tricep Extension",
+    "joint": 2,
+    "muscles": [
+      30,
+      9
+    ],
+    "id": 261,
+    "pushPull": 1,
+    "modality": 1,
+    "level": 1,
+    "nameZh": "啞鈴過頭單手三頭肌伸展"
+  },
+  {
+    "nameEn": "Lying Single Dumbbell Triceps Extension",
+    "joint": 2,
+    "level": 1,
+    "upperLowerCore": 1,
+    "nameZh": "仰臥單手啞鈴三頭肌伸展",
+    "id": 253,
+    "pushPull": 1,
+    "modality": 1,
+    "muscles": [
+      30,
+      9
+    ]
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=m-6lp45V5eQ&ab_channel=%E6%9C%89%E8%82%8C%E5%8B%B5",
+      "start": 226,
+      "end": 238
+    },
+    "modality": 1,
+    "muscles": [
+      1,
+      15
+    ],
+    "pushPull": 1,
+    "level": 3,
+    "joint": 1,
+    "nameZh": "下斜捲腹",
+    "id": 32,
+    "upperLowerCore": 3,
+    "nameEn": "Decline Crunch"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=Q5De1JlQGUk&t=3s&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 44,
+      "end": 123
+    },
+    "joint": 2,
+    "level": 3,
+    "modality": 2,
+    "id": 143,
+    "nameZh": "上斜滑輪繩索飛鳥",
+    "pushPull": 1,
+    "upperLowerCore": 1,
+    "muscles": [
+      5,
+      20
+    ],
+    "nameEn": "Incline Cable Fly"
+  },
+  {
+    "pushPull": 1,
+    "nameZh": "槓鈴側深蹲",
+    "id": 179,
+    "muscles": [
+      6,
+      22
+    ],
+    "level": 2,
+    "upperLowerCore": 2,
+    "nameEn": "Lateral Barbell Squat",
+    "modality": 1,
+    "joint": 1
+  },
+  {
+    "joint": 1,
+    "level": 1,
+    "upperLowerCore": 2,
+    "muscles": [
+      6,
+      22
+    ],
+    "pushPull": 1,
+    "nameZh": "側登階",
+    "nameEn": "Lateral Step-Up",
+    "modality": 1,
+    "id": 182
+  },
+  {
+    "pushPull": 1,
+    "id": 160,
+    "modality": 1,
+    "level": 3,
+    "joint": 1,
+    "nameZh": "槓鈴三點式弓箭步",
+    "upperLowerCore": 2,
+    "muscles": [
+      6,
+      22
+    ],
+    "nameEn": "Barbell Diagonal Lunge"
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=71UofCP10lc&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 65,
+      "end": 120
+    },
+    "modality": 1,
+    "joint": 1,
+    "pushPull": 2,
+    "level": 1,
+    "nameZh": "引體向上",
+    "id": 41,
+    "nameEn": "Pull-Up",
+    "upperLowerCore": 1,
+    "muscles": [
+      2,
+      16
+    ]
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=coDGzOOxPk8&ab_channel=%E5%81%A5%E4%BA%BA%E8%93%8B%E4%BC%8A",
+      "start": 203,
+      "end": 223
+    },
+    "id": 105,
+    "nameEn": "Calf Raise - Standing",
+    "muscles": [
+      4,
+      18
+    ],
+    "joint": 2,
+    "level": 1,
+    "nameZh": "站姿小腿上提",
+    "pushPull": 1,
+    "modality": 1,
+    "upperLowerCore": 2
+  },
+  {
+    "video": {
+      "url": "https://www.youtube.com/watch?v=c0jejD_2W-w&ab_channel=KosmoFit",
+      "start": 440,
+      "end": 490
+    },
+    "modality": 1,
+    "nameEn": "Dumbbell Kickback",
+    "nameZh": "啞鈴後屈伸",
+    "pushPull": 1,
+    "level": 1,
+    "id": 244,
+    "muscles": [
+      30,
+      9
+    ],
+    "joint": 2,
+    "upperLowerCore": 1
+  }
+]
