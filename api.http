@@ -1,0 +1,13 @@
+@baseUrl = http://localhost:3000
+
+### Health Check
+GET {{baseUrl}}/
+
+### Get exercises (default: offset=0, limit=20)
+GET {{baseUrl}}/api/exercises
+
+### Get exercises with pagination
+GET {{baseUrl}}/api/exercises?offset=0&limit=5
+
+### Get exercises - second page
+GET {{baseUrl}}/api/exercises?offset=5&limit=5

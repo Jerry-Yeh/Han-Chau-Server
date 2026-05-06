@@ -3,6 +3,7 @@ import cors from "cors";
 import dotenv from "dotenv";
 
 import recordRoutes from "./routes/record.routes";
+import exerciseRoutes from "./routes/exercise.routes";
 
 dotenv.config();
 
@@ -23,6 +24,7 @@ app.listen(PORT, () => {
 });
 
 app.use("/api/records", recordRoutes);
+app.use("/api/exercises", exerciseRoutes);
 
 // error handler
 app.use((err: any, req: any, res: any, next: any) => {
