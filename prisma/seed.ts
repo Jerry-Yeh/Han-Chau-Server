@@ -1,7 +1,7 @@
 import "dotenv/config";
 import { PrismaPg } from "@prisma/adapter-pg";
 
-import { PrismaClient, Prisma } from "../src/generated/prisma";
+import { PrismaClient, Prisma } from "@prisma/client"
 import exercises from "./data/exercises.json";
 
 const adapter = new PrismaPg({ connectionString: process.env.DATABASE_URL });
